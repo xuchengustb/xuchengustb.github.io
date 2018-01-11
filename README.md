@@ -1,4 +1,4 @@
-# 说明
+# Cheng Xu, PhD candidate, University of Science & Technology Beijing
 
 - 在线MarkDown简历书写工具 冷熊简历 http://link.ftqq.com/0rsRL  
 - 自架版 DeerResume https://github.com/geekcompany/DeerResume
