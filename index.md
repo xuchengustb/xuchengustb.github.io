@@ -2,7 +2,9 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Cheng Xu is now working towards PhD degree on Computer Science in University of Science & Technology Beijing.
+
+He is with the Microarchitecture and Integrated Circuit Laboratory (MICL). His research interests are in the areas of wireless indoor localization, including channel modelling, localization estimation and tracking, cooperative localization and mobile computing; human activity recognition, including accurate human motion capture and behavior recognition.
 
 [Link to another page](another-page).
 
@@ -11,8 +13,10 @@ There should be whitespace between paragraphs.
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # [](#header-1)Education Information
-2012.09-2015.01, USTB, Computer Science & Technology, M.E.
-2008.09-2012.07, USTB, Computer Science & Technology, B.E.
+
+2012.09-2015.01, USTB, Computer Science & Technology, M.E.
+
+2008.09-2012.07, USTB, Computer Science & Technology, B.E.
 
 ## [](#header-2)Research Papers
 
@@ -30,26 +34,68 @@ There should be whitespace between paragraphs. We recommend including a README, 
 1. **Xu C**, J. He, and X. Zhang, Hierarchical Decision Tree Model for Human Activity Recognition Using Wearable Sensors, in Advances in Intelligent Systems and Interactive Applications: Proceedings of the 2nd International Conference on Intelligent and Interactive Systems and Applications (IISA2017), F. Xhafa, S. Patnaik, and A.Y. Zomaya, Editors. 2018, Springer International Publishing: Cham. p. 367-372.. (EI indexed, Accession number: 20174604400155)
 1. **Xu C**, Jie He, Xiaotong Zhang, Cunda Wang and Shihong Duan. Template-Matching-Based Detection of Freezing of Gait Using Wearable Sensors, 2017 Conference on Iden-tification, Information & Knowledge in the Internet of Things (IIKI 2017), Oct. 19-21, Qufu, China. (EI index)
 
-## [](#header-2)Professional Experience2013.08 - Present     Firefighters Positioning System
-*	Responsible for nodes’ hardware debugging*	Lead the team to complete the design and implementation of the system communication protocol*	Localization algorithm design and implementation*	Process test work
+## [](#header-2)Professional Experience
+
+
+
+2013.08 - Present     Firefighters Positioning System
+
+*	Responsible for nodes’ hardware debugging
+*	Lead the team to complete the design and implementation of the system communication protocol
+*	Localization algorithm design and implementation
+*	Process test work
 *  Development Environment: Keil MDK，Matlab, Visual Studio 2008     Development Language: C、C#
-2013.08 - Present    TOA ad-hoc network positioning system 
-*	Lead the team to complete communication protocol design and implementation*	PC demo design and implementation*	Process and complete the test, result calculation and the error statistic.
+
+2013.08 - Present    TOA ad-hoc network positioning system 
+
+*	Lead the team to complete communication protocol design and implementation
+*	PC demo design and implementation
+*	Process and complete the test, result calculation and the error statistic.
 *  Development Environment: Keil MDK，Matlab, Visual Studio 2008     Development Language: C、C#
-2013.08 - Present     Height from the ground related TOA ranging error model 
-*	Measure data according to the actual experimental factors, analyze statistical results and build error model.*	Work out CRLB combined with actual application scenario.*  Development Environment: Keil MDK，Matlab      Development Language: C
-2013.08 - Present     National Nature Fund: Research on the influence of the ranging accuracy of the human body  based on  TOA  personnel positioning system
-*	Research and analyze on theoretical reasons for error of TOA, analyze of statistical results, build error model.*	Develop the simulation test platform, and verify the correctness and validity of the model.*  Development Environment: Keil MDK，Network Analyzer      Development Language: C
-*  2013.08 - Present     National Nature Fund: Research on TOA ranging error model and its application Based on channel Time/Power
-*	Measure data according to the actual experimental factors, analyze statistical results and build error model.*	Combined with the actual application requirements, develop related simulation test platform.* Development Environment: Keil MDK，Network Analyzer      Development Language: C
-2013.08 - Present      Radio Ranging Technology  
-*	Responsible for project coordination, scheduling, and the debugging of the hardware and the communication protocol implementation.*	The antenna hardware schematic design, participate in completing the design and implementation of PCB.*	The function of the hardware node commissioning and performance test.*	Radio telemetry antenna board communication protocol design and embedded software development, research and development in the platform of STM32 processor, NanoLoc RF chip and provide wireless application.*  Development Environment: Keil MDK，Matlab      Development Language: C
-2013.01-2013.05  Platform transplantation of StarLoc Real Time Localization System 
-*	Fully system transplantation of StarLOC real-time precise positioning system from ATmega644 platform to STM32 processor, ARM platform. *	Complete the target node ranging agreement based on time slot.*   Development Environment: Keil MDK，Visual Studio 2008          Development Language: C、C#
-*   2012.05-2013.08  Nursing home regional positioning management system software development
-*	Complete PC software development, including system architecture design and the implementation of specific functional module and complete the target node ranging agreement based on time slot.*  Development Environment: Keil MDK，Visual Studio 2008      Development Language: C 、C#
-2012.02-2012.04   Query-driven Indoor Location System based on Android
-*	Responsible for the development of the Android end PC software and algorithm implementation,*	Implementation of embedded Wi-Fi middleware module interface*	Debugging of ranging communication protocol.*  Development Environment: Eclipse、AVR studio    Development Language: JAVA、C
+
+2013.08 - Present     Height from the ground related TOA ranging error model 
+
+*	Measure data according to the actual experimental factors, analyze statistical results and build error model.
+*	Work out CRLB combined with actual application scenario.
+*  Development Environment: Keil MDK，Matlab      Development Language: C
+
+2013.08 - Present     National Nature Fund: Research on the influence of the ranging accuracy of the human body  based on  TOA  personnel positioning system
+
+*	Research and analyze on theoretical reasons for error of TOA, analyze of statistical results, build error model.
+*	Develop the simulation test platform, and verify the correctness and validity of the model.
+*  Development Environment: Keil MDK，Network Analyzer      Development Language: C
+*  
+2013.08 - Present     National Nature Fund: Research on TOA ranging error model and its application Based on channel Time/Power
+
+*	Measure data according to the actual experimental factors, analyze statistical results and build error model.
+*	Combined with the actual application requirements, develop related simulation test platform.
+* Development Environment: Keil MDK，Network Analyzer      Development Language: C
+
+2013.08 - Present      Radio Ranging Technology  
+
+*	Responsible for project coordination, scheduling, and the debugging of the hardware and the communication protocol implementation.
+*	The antenna hardware schematic design, participate in completing the design and implementation of PCB.
+*	The function of the hardware node commissioning and performance test.
+*	Radio telemetry antenna board communication protocol design and embedded software development, research and development in the platform of STM32 processor, NanoLoc RF chip and provide wireless application.
+*  Development Environment: Keil MDK，Matlab      Development Language: C
+
+2013.01-2013.05  Platform transplantation of StarLoc Real Time Localization System 
+
+*	Fully system transplantation of StarLOC real-time precise positioning system from ATmega644 platform to STM32 processor, ARM platform. 
+*	Complete the target node ranging agreement based on time slot.
+*   Development Environment: Keil MDK，Visual Studio 2008          Development Language: C、C#
+*   
+2012.05-2013.08  Nursing home regional positioning management system software development
+
+*	Complete PC software development, including system architecture design and the implementation of specific functional module and complete the target node ranging agreement based on time slot.
+*  Development Environment: Keil MDK，Visual Studio 2008      Development Language: C 、C#
+
+2012.02-2012.04   Query-driven Indoor Location System based on Android
+
+*	Responsible for the development of the Android end PC software and algorithm implementation,
+*	Implementation of embedded Wi-Fi middleware module interface
+*	Debugging of ranging communication protocol.
+*  Development Environment: Eclipse、AVR studio    Development Language: JAVA、C
 
 ```js
 // Javascript code with syntax highlighting.
