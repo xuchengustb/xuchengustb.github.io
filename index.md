@@ -4,7 +4,11 @@ layout: default
 
 Cheng Xu is now working towards PhD degree on Computer Science in [University of Science & Technology Beijing](https://www.ustb.edu.cn).
 
-He is with the Microarchitecture and Integrated Circuit Laboratory (MICL). His research interests are in the areas of wireless indoor localization, including channel modelling, localization estimation and tracking, cooperative localization and mobile computing; human activity recognition, including accurate human motion capture and behavior recognition.
+He is with the Microarchitecture and Integrated Circuit Laboratory (MICL). His research interests are in the areas of 
+
+* **wireless indoor localization**, including channel modelling, localization estimation and tracking, cooperative localization and mobile computing; 
+
+* **human activity recognition**, including accurate human motion capture and behavior recognition.
 
 # [](#header-1)Education Information
 
