@@ -12,13 +12,23 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # [](#header-1)Personel Information
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### Research Topics:
 
-## [](#header-2)Header 2
+## [](#header-2)Research Papers
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### 期刊文章：
+1. **Xu C**, He J, Zhang X, et al. Geometrical Kinematic Modeling on Human Motion using Method of Multi-Sensor Fusion[J]. Information Fusion, 2017, 41.
+(SCI 一区，TOP期刊，IF=5.667，WOS:000417662100021)
+1. **Xu C**, He J, Zhang X, et al. Toward Near-Ground Localization: Modeling and Applications for TOA Ranging Error[J]. IEEE Transactions on Antennas & Propagation, 2017, 65(10):5658-5662. (SCI 二区, TOP期刊, IF=2.957，WOS:000414057000080)
+1. **Xu C**, He J, Zhang X, et al. Detection of Freezing of Gait Using Template-Matching-Based Approaches[J]. Journal of Sensors, 2017, 2017(2):1-8. 
+(SCI四区，IF=1.704， WOS:000415849400001)  
+1. **Xu C**, Jie He, Xiaotong Zhang, Haipiao Cai, Shihong Duan, Po-Hsuan Tseng, and Chong Li. Recurrent Transformation of Prior Knowledge based Model for Human Motion Recognition，Computational Intelligence and Neuroscience
+ (SCI四区, IF=1.215)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+
+###会议文章：
+1. **Xu C**, He J, Zhang X, et al. DFSA: A Classification Capability Quantification Method for Human Action Recognition, 2017 IEEE Ubiquitous Intelligence and Computing (UIC 2017), Aug.4-8, 2017, San Francisco, USA. (EI index, CCF C类会议)
+1. **Xu C**, J. He, and X. Zhang, Hierarchical Decision Tree Model for Human Activity Recognition Using Wearable Sensors, in Advances in Intelligent Systems and Interactive Applications: Proceedings of the 2nd International Conference on Intelligent and Interactive Systems and Applications (IISA2017), F. Xhafa, S. Patnaik, and A.Y. Zomaya, Editors. 2018, Springer International Publishing: Cham. p. 367-372.. (EI indexed, Accession number: 20174604400155)
+1. **Xu C**, Jie He, Xiaotong Zhang, Cunda Wang and Shihong Duan. Template-Matching-Based Detection of Freezing of Gait Using Wearable Sensors, 2017 Conference on Iden-tification, Information & Knowledge in the Internet of Things (IIKI 2017), Oct. 19-21, Qufu, China. (EI index)
 
 ### [](#header-3)Header 3
 
