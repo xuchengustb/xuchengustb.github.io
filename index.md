@@ -2,15 +2,9 @@
 layout: default
 ---
 
-Cheng Xu is now working towards PhD degree on Computer Science in University of Science & Technology Beijing.
+Cheng Xu is now working towards PhD degree on Computer Science in [University of Science & Technology Beijing](https://www.ustb.edu.cn).
 
 He is with the Microarchitecture and Integrated Circuit Laboratory (MICL). His research interests are in the areas of wireless indoor localization, including channel modelling, localization estimation and tracking, cooperative localization and mobile computing; human activity recognition, including accurate human motion capture and behavior recognition.
-
-[Link to another page](another-page).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # [](#header-1)Education Information
 
