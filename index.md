@@ -32,8 +32,6 @@ He is with the Microarchitecture and Integrated Circuit Laboratory (MICL). His r
 1. **Xu C**, He J, Zhang X, et al. DFSA: A Classification Capability Quantification Method for Human Action Recognition, 2017 IEEE Ubiquitous Intelligence and Computing (UIC 2017), Aug.4-8, 2017, San Francisco, USA. (EI index, CCF C)
 1. **Xu C**, He J, Zhang X. [Hierarchical Decision Tree Model for Human Activity Recognition Using Wearable Sensors[M]// Advances in Intelligent Systems and Interactive Applications. 2018.](./assets/pdf/Hierarchical Decision Tree Model for Human Activity Recognition using Wearable Sensors) (EI indexed, Accession number: 20174604400155)
 1. **Xu C**, Jie He, Xiaotong Zhang, Cunda Wang and Shihong Duan. Template-Matching-Based Detection of Freezing of Gait Using Wearable Sensors, 2017 Conference on Iden-tification, Information & Knowledge in the Internet of Things (IIKI 2017), Oct. 19-21, Qufu, China. (EI index)
-1. **Xu C**, Jie He, Xiaotong Zhang, Shihong Duan. [Towards IMU/UWB Fusion based Localization:Error Modeling and Spatial-Temporal
-Performance Evaluation](./assets/pdf/performance for Percom2019.pdf)
 
 ## [](#header-2)Professional Experience
 
