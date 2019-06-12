@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Cheng Xu is now working towards PhD degree on Computer Science in [University of Science & Technology Beijing](https://www.ustb.edu.cn).
+Cheng Xu is now working as an Associate Professor in [School of Computer & Communication Engineering](http://scce.ustb.edu.cn/), [University of Science & Technology Beijing](https://www.ustb.edu.cn).
 
 He is with the Microarchitecture and Integrated Circuit Laboratory (MICL). His research interests are in the areas of 
 
