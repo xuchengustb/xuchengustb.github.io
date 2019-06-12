@@ -62,7 +62,7 @@ He is with the Microarchitecture and Integrated Circuit Laboratory (MICL). His r
 1. **Xu C**, He J, Zhang X. [Hierarchical Decision Tree Model for Human Activity Recognition Using Wearable Sensors[M]// Advances in Intelligent Systems and Interactive Applications. 2018.](./assets/pdf/Hierarchical Decision Tree Model for Human Activity Recognition using Wearable Sensors) (EI indexed, Accession number: 20174604400155)
 1. **Xu C**, Jie He, Xiaotong Zhang, Cunda Wang and Shihong Duan. Template-Matching-Based Detection of Freezing of Gait Using Wearable Sensors, 2017 Conference on Iden-tification, Information & Knowledge in the Internet of Things (IIKI 2017), Oct. 19-21, Qufu, China. (EI index)
 
-```
+<!--
 ## [](#header-2)Professional Experience
 
 - **2013.08 - Present     Firefighters Positioning System**
@@ -106,7 +106,7 @@ He is with the Microarchitecture and Integrated Circuit Laboratory (MICL). His r
 	 *	Responsible for the development of the Android end PC software and algorithm implementation,
 	 *	Implementation of embedded Wi-Fi middleware module interface
 	 *	Debugging of ranging communication protocol.
-```
+-->
 
 <!--
 ```js
