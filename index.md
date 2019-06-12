@@ -28,10 +28,10 @@ He is with the Microarchitecture and Integrated Circuit Laboratory (MICL). His r
 
 # [](#header-1)Honors, Prizes and Awards
 ## [](#header-2) Honors & Awards
-- Post-doctoral innovative talent support program, Ministry of Human Resources and Social Security, China, 2019
-- Excellent Doctoral Dissertation, University of Science & Technology Beijing, 2019
-- IEEE Member, 2017
-- CCF Member, 2017
+1. Post-doctoral Innovative Talent Support Program, Ministry of Human Resources and Social Security, China, 2019
+1. Excellent Doctoral Dissertation, University of Science & Technology Beijing, 2019
+1. IEEE Member, 2017
+1. CCF Member, 2017
 
 ## [](#header-2) Journal Editorship
 - Associate Editor, [International Journal of Wireless Information Networks](https://link.springer.com/journal/10776), 2019-present
