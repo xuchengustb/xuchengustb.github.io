@@ -8,14 +8,33 @@ He is with the Microarchitecture and Integrated Circuit Laboratory (MICL). His r
 
 * **wireless indoor localization**, including channel modelling, localization estimation and tracking, cooperative localization and mobile computing; 
 
+* **swarm intelligence and multi-robots system**, including cooperative localization, formation, target discovery and area coverage algorithms in swarm intelligence research.
+
 * **human activity recognition**, including accurate human motion capture and behavior recognition.
 
 # [](#header-1)Education Information
+
+- 2016.09-2019.01, USTB, Computer Science & Technology, Ph.D.
 
 - 2012.09-2015.01, USTB, Computer Science & Technology, M.E.
 
 - 2008.09-2012.07, USTB, Computer Science & Technology, B.E.
 
+# [](#header-1)Academic Positions
+
+- 2019.05-Present, USTB, Computer Science & Technology, Associate Professor.
+
+# [](#header-1)Honors, Prizes and Awards
+## [](#header-2) Honors & Awards
+- Post-doctoral innovative talent support program, Ministry of Human Resources and Social Security, China, 2019
+- Excellent Doctoral Dissertation, University of Science & Technology Beijing, 2019
+- IEEE Member, 2017
+- CCF Member, 2017
+
+## [](#header-2) Journal Editorship
+- Associate Editor, [International Journal of Wireless Information Networks](https://link.springer.com/journal/10776), 2019-present
+
+# [](#header-1)Awarded Grants
 
 ## [](#header-2)Research Papers
 
