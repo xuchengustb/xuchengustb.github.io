@@ -12,6 +12,8 @@ He is with the Microarchitecture and Integrated Circuit Laboratory (MICL). His r
 
 * **human activity recognition**, including accurate human motion capture and behavior recognition.
 
+**Expected graduate students**: I am looking forward to outstanding undergraduates who are committed to swarm intelligence robot, deep learning and reinforcement learning. Those with good programming skills or solid mathematical background would be preferred.
+
 # [](#header-1)Education Information
 
 - 2016.09-2019.01, USTB, Computer Science & Technology, Ph.D.
