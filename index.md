@@ -36,9 +36,11 @@ He is with the Microarchitecture and Integrated Circuit Laboratory (MICL). His r
 
 # [](#header-1)Awarded Grants
 
-## [](#header-2)Research Papers
 
-### Journal Papers：
+# [](#header-1)Research 
+
+## [](#header-2)Refereed Journal Publications：
+
 1. **Xu C**, He J, Zhang X, et al. [Geometrical Kinematic Modeling on Human Motion using Method of Multi-Sensor Fusion[J]. Information Fusion, 2017, 41.](./assets/pdf/Geometrical kinematic modeling on human motion using method of multi-sensor fusion.pdf)
 (SCI, TOP journal, IF=6.639，WOS:000417662100021)
 1. **Xu C**, He J, Zhang X, et al. [Toward Near-Ground Localization: Modeling and Applications for TOA Ranging Error\[J\]. IEEE Transactions on Antennas & Propagation, 2017, 65(10):5658-5662.](./assets/pdf/Toward Near-Ground Localization Modeling and Applications for TOA Ranging Error.pdf) (SCI, TOP journal, IF=4.130, WOS:000414057000080)
@@ -57,11 +59,21 @@ He is with the Microarchitecture and Integrated Circuit Laboratory (MICL). His r
 1. **Xu C**, Ji M, Qi Y, et al. [MCC-CKF: A Distance Constrained Kalman Filter Method for Indoor TOA Localization Applications[J]. Electronics, 2019, 8(4): 478.](./assets/pdf/MCC-CKF: A Distance Constrained Kalman Filter Method for Indoor TOA Localization Applications.pdf)
 (SCI, IF=2.110)   
 
-### Conference Papers：
+## [](#header-2)Refereed Conference Publications：
 1. **Xu C**, He J, Zhang X, et al. DFSA: A Classification Capability Quantification Method for Human Action Recognition, 2017 IEEE Ubiquitous Intelligence and Computing (UIC 2017), Aug.4-8, 2017, San Francisco, USA. (EI index, CCF C)
 1. **Xu C**, He J, Zhang X. [Hierarchical Decision Tree Model for Human Activity Recognition Using Wearable Sensors[M]// Advances in Intelligent Systems and Interactive Applications. 2018.](./assets/pdf/Hierarchical Decision Tree Model for Human Activity Recognition using Wearable Sensors) (EI indexed, Accession number: 20174604400155)
-1. **Xu C**, Jie He, Xiaotong Zhang, Cunda Wang and Shihong Duan. Template-Matching-Based Detection of Freezing of Gait Using Wearable Sensors, 2017 Conference on Iden-tification, Information & Knowledge in the Internet of Things (IIKI 2017), Oct. 19-21, Qufu, China. (EI index)
+1. **Xu C**, Jie He, Xiaotong Zhang, Cunda Wang and Shihong Duan. Template-Matching-Based Detection of Freezing of Gait Using Wearable Sensors, 2017 Conference on Identification, Information & Knowledge in the Internet of Things (IIKI 2017), Oct. 19-21, Qufu, China. (EI index)
 
+
+## [](#header-2)Invited Reviewers for the Following Journals
+1. IEEE Wireless Communications Letters, 2018-2019
+1. IEEE Transactions on Industrial Informatics, 2018
+1. IEEE Communications Magazine, 2017
+1. IEEE Sensors Journal, 2017-2019
+1. IEEE Access, 2018-2019
+
+## [](#header-2)Invited Reviewers for the Following Conferences
+1. \[NIPS\] Annual Conference on Neural Information Processing Systems, 2016
 <!--
 ## [](#header-2)Professional Experience
 
