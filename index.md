@@ -42,7 +42,6 @@ He is with the Microarchitecture and Integrated Circuit Laboratory (MICL). His r
 1. **Xu C**, He J, Zhang X, et al. [Geometrical Kinematic Modeling on Human Motion using Method of Multi-Sensor Fusion[J]. Information Fusion, 2017, 41.](./assets/pdf/Geometrical kinematic modeling on human motion using method of multi-sensor fusion.pdf)
 (SCI, TOP journal, IF=6.639，WOS:000417662100021)
 1. **Xu C**, He J, Zhang X, et al. [Toward Near-Ground Localization: Modeling and Applications for TOA Ranging Error\[J\]. IEEE Transactions on Antennas & Propagation, 2017, 65(10):5658-5662.](./assets/pdf/Toward Near-Ground Localization Modeling and Applications for TOA Ranging Error.pdf) (SCI, TOP journal, IF=4.130, WOS:000414057000080)
-
 1. **Xu C**, Chai D, He J, et al. [InnoHAR: A Deep Neural Network for Complex Human Activity Recognition[J]. IEEE Access, 2019, 7: 9893-9902.](./assets/pdf/InnoHAR A Deep Neural Network for Complex Human Activity Recognition.pdf) 
  (SCI, IF=3.557, WOS:000458002000001)
 1. **Xu C**, He J, Li Y, et al. [Optimal Estimation and Fundamental Limits for Target Localization using IMU/TOA Fusion Method[J]. IEEE Access, 2019, 7: 28124-28136.](./assets/pdf/Optimal Estimation and Fundamental Limits for Target Localization using IMU TOA Fusion Method.pdf) 
