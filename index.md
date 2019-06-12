@@ -56,14 +56,18 @@ He is with the Microarchitecture and Integrated Circuit Laboratory (MICL). His r
  (SCI, IF=1.649, WOS:000423600000001)      
 1. **徐诚**, 何杰, 张晓彤等. IMU/TOA融合人体运动追踪性能评估方法[J]. 电子学报. (EI, Accpeted & published online)
 1. **Xu C**, He J, Zhang X, et al. [3D Localization Performance Evaluation using IMU/TOA Fusion Methods[J]. International Journal of Wireless Information Networks.](./assets/pdf/3D Localization Performance Evaluation using IMU/TOA Fusion Methods.pdf) (EI/SCI, Accpeted & published online)
-1. **Xu C**, Ji M, Qi Y, et al. [MCC-CKF: A Distance Constrained Kalman Filter Method for Indoor TOA Localization Applications[J]. Electronics, 2019, 8(4): 478.](./assets/pdf/MCC-CKF: A Distance Constrained Kalman Filter Method for Indoor TOA Localization Applications.pdf)
+1. **Xu C**, Ji M, Qi Y, et al. [MCC-CKF: A Distance Constrained Kalman Filter Method for Indoor TOA Localization Applications[J]. Electronics, 2019, 8(4): 478.](./assets/pdf/MCC-CKF A Distance Constrained Kalman Filter Method for Indoor TOA Localization Applications.pdf)
 (SCI, IF=2.110)   
 
 ## [](#header-2)Refereed Conference Publications：
-1. **Xu C**, He J, Zhang X, et al. DFSA: A Classification Capability Quantification Method for Human Action Recognition, 2017 IEEE Ubiquitous Intelligence and Computing (UIC 2017), Aug.4-8, 2017, San Francisco, USA. (EI index, CCF C)
-1. **Xu C**, He J, Zhang X. [Hierarchical Decision Tree Model for Human Activity Recognition Using Wearable Sensors[M]// Advances in Intelligent Systems and Interactive Applications. 2018.](./assets/pdf/Hierarchical Decision Tree Model for Human Activity Recognition using Wearable Sensors) (EI indexed, Accession number: 20174604400155)
-1. **Xu C**, Jie He, Xiaotong Zhang, Cunda Wang and Shihong Duan. Template-Matching-Based Detection of Freezing of Gait Using Wearable Sensors, 2017 Conference on Identification, Information & Knowledge in the Internet of Things (IIKI 2017), Oct. 19-21, Qufu, China. (EI index)
-
+1. **Xu C**, He J, Zhang X, et al. [DFSA: A Classification Capability Quantification Method for Human Action Recognition](./assets/pdf/DFSA A Classification Capability Quantification Method for Human Action Recognition.pdf), 2017 IEEE Ubiquitous Intelligence and Computing (UIC 2017), Aug.4-8, 2017, San Francisco, USA. (EI, CCF C)
+1. **Xu C**, He J, Zhang X. [Hierarchical Decision Tree Model for Human Activity Recognition Using Wearable Sensors[M]// Advances in Intelligent Systems and Interactive Applications. 2018.](./assets/pdf/Hierarchical Decision Tree Model for Human Activity Recognition using Wearable Sensors) (EI, Accession number: 20174604400155)
+1. **Xu C**, Jie He, Xiaotong Zhang, Cunda Wang and Shihong Duan. [Template-Matching-Based Detection of Freezing of Gait Using Wearable Sensors](./assets/pdf/Template-Matching-Based Detection of Freezing of Gait Using Wearable Sensors.pdf), 2017 Conference on Identification, Information & Knowledge in the Internet of Things (IIKI 2017), Oct. 19-21, Qufu, China. (EI )
+1. **Xu C**, He J, Zhang X. Toward Human Motion Sensing: Design and Performance Evaluation of a Minimized Wearable Platform using Inertial and TOA Sensors[M]// Advances in Intelligent Systems and Interactive Applications. 2018.
+1. Duan S, Li Y, **Xu C\***, et al. TOA based Target Tracking using Optimal Estimation Methods, 28th Wireless and Optical Communications Conference (WOCC) , May 9-10, Beijing, China. (EI, accepted)
+1. Zhou X, **Xu C\***, et al. A Cross-region Wireless-synchronization-based TDOA Method for Indoor Positioning Applications, 28th Wireless and Optical Communications Conference (WOCC) , May 9-10, Beijing, China. (EI, accepted)
+1. **Xu C**, He J, Liu F, et al. ZTDMA: A Multi-zones and Multi-objectives Channel Allocation Protocol Based on TOA Real-Time Geolocation System[M]//Advanced Technologies in Ad Hoc and Sensor Networks. Springer, Berlin, Heidelberg, 2014: 233-245. (EI)
+1. **Xu C**, He J, Liu F, et al. MLOC: A Multiple Service Fusion Self-Organizing Geolocation System[M]//Advanced Technologies in Ad Hoc and Sensor Networks. Springer, Berlin, Heidelberg, 2014: 247-261. (EI)
 
 ## [](#header-2)Invited Reviewers for the Following Journals
 1. IEEE Wireless Communications Letters, 2018-2019
@@ -74,6 +78,8 @@ He is with the Microarchitecture and Integrated Circuit Laboratory (MICL). His r
 
 ## [](#header-2)Invited Reviewers for the Following Conferences
 1. \[NIPS\] Annual Conference on Neural Information Processing Systems, 2016
+
+
 <!--
 ## [](#header-2)Professional Experience
 
