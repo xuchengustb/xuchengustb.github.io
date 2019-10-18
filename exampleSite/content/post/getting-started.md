@@ -1,4 +1,50 @@
-# Academic: the website designer for [Hugo](https://gohugo.io)
++++
+title = "Academic: the website designer for Hugo"
+
+date = 2016-04-20T00:00:00
+lastmod = 2018-01-13T00:00:00
+draft = false
+
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors = []
+
+tags = ["academic"]
+summary = "Create a beautifully simple website or blog in under 10 minutes."
+
+[header]
+image = "headers/getting-started.png"
+caption = "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
+
+[[gallery_item]]
+album = "1"
+image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-default.png"
+caption = "Default"
+
+[[gallery_item]]
+album = "1"
+image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-ocean.png"
+caption = "Ocean"
+
+[[gallery_item]]
+album = "1"
+image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-dark.png"
+caption = "Dark"
+
+[[gallery_item]]
+album = "1"
+image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-forest.png"
+caption = "Default"
+
+[[gallery_item]]
+album = "1"
+image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-coffee-playfair.png"
+caption = "Coffee theme with Playfair font"
+
+[[gallery_item]]
+album = "1"
+image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-1950s.png"
+caption = "1950s"
++++
 
 **Academic** is a framework to help you create a beautiful website quickly. Perfect for personal sites, blogs, or business/project sites. [Check out the latest demo](https://themes.gohugo.io/theme/academic/) of what you'll get in less than 10 minutes. Then head on over to the [Quick Start guide](https://sourcethemes.com/academic/docs/) or take a look at the [Release Notes](https://sourcethemes.com/academic/updates/).
 
@@ -18,13 +64,7 @@ Key features:
 
 Academic is available in different color themes and font themes.
 
-| `default` | `ocean` | `dark` |
-| --- | --- | --- |
-| ![default theme](https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-default.png) | ![ocean theme](https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-ocean.png) | ![dark theme](https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-dark.png) |
-
-| `forest` | `coffee` + `playfair` font | `1950s` |
-| --- | --- | --- |
-| ![forest theme](https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-forest.png) | ![coffee theme](https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-coffee-playfair.png) | ![1950s theme](https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-1950s.png) |
+{{< gallery >}}
 
 ## Install
 
@@ -51,14 +91,14 @@ Prerequisites:
 
 1. [Fork](https://github.com/sourcethemes/academic-kickstart#fork-destination-box) the *Academic Kickstart* repository and clone your fork with Git: 
 
-       git clone https://github.com/sourcethemes/academic-kickstart.git My_Website
+        git clone https://github.com/sourcethemes/academic-kickstart.git My_Website
     
     *Note that if you forked Academic Kickstart, the above command should be edited to clone your fork, i.e. replace `sourcethemes` with your GitHub username.*
 
 2. Initialize the theme:
 
-       cd My_Website
-       git submodule update --init --recursive
+        cd My_Website
+        git submodule update --init --recursive
 
 ### Install with ZIP
 
@@ -73,7 +113,7 @@ Prerequisites:
 
 1. If you installed on your computer, view your new website by running the following command:
       
-       hugo server
+        hugo server
 
     Now visit [localhost:1313](http://localhost:1313) and your new Academic powered website will appear. Otherwise, if using Netlify, they will provide you with your URL.
            
@@ -106,5 +146,3 @@ For support, head over to the [Hugo discussion forum](http://discuss.gohugo.io).
 Copyright 2016-present [George Cushen](https://georgecushen.com).
 
 Released under the [MIT](https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md) license.
-
-[![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/hugo-academic/readme?pixel)](https://github.com/igrigorik/ga-beacon)
