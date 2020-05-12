@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuanyuan Li | Chinese website title...</title>
+    <link>https://xucheng.org.cn/zh/authors/yuanyuan-li/</link>
+      <atom:link href="https://xucheng.org.cn/zh/authors/yuanyuan-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuanyuan Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>© 2019</copyright><lastBuildDate>Wed, 30 Jan 2019 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://xucheng.org.cn/img/icon-192.png</url>
+      <title>Yuanyuan Li</title>
+      <link>https://xucheng.org.cn/zh/authors/yuanyuan-li/</link>
+    </image>
+    
+    <item>
+      <title>Optimal Estimation and Fundamental Limits for Target Localization Using IMU/TOA Fusion Method</title>
+      <link>https://xucheng.org.cn/zh/publication/access-_optimal_estimation_19/</link>
+      <pubDate>Wed, 30 Jan 2019 00:00:00 +0800</pubDate>
+      <guid>https://xucheng.org.cn/zh/publication/access-_optimal_estimation_19/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
