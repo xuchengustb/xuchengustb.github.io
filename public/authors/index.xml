@@ -5,7 +5,7 @@
     <link>https://xucheng.org.cn/authors/</link>
       <atom:link href="https://xucheng.org.cn/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 14 Aug 2019 00:00:00 +0800</lastBuildDate>
     <image>
       <url>https://xucheng.org.cn/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,42 +13,10 @@
     </image>
     
     <item>
-      <title>**Cheng Xu#***</title>
+      <title>**Cheng Xu**#*</title>
       <link>https://xucheng.org.cn/authors/cheng-xu#/</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 14 Aug 2019 00:00:00 +0800</pubDate>
       <guid>https://xucheng.org.cn/authors/cheng-xu#/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jiawang Wan#</title>
-      <link>https://xucheng.org.cn/authors/jiawang-wan#/</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0800</pubDate>
-      <guid>https://xucheng.org.cn/authors/jiawang-wan#/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jie He</title>
-      <link>https://xucheng.org.cn/authors/jie-he/</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0800</pubDate>
-      <guid>https://xucheng.org.cn/authors/jie-he/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shihong Duan</title>
-      <link>https://xucheng.org.cn/authors/shihong-duan/</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0800</pubDate>
-      <guid>https://xucheng.org.cn/authors/shihong-duan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Xiaotong Zhang</title>
-      <link>https://xucheng.org.cn/authors/xiaotong-zhang/</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0800</pubDate>
-      <guid>https://xucheng.org.cn/authors/xiaotong-zhang/</guid>
       <description></description>
     </item>
     
@@ -61,10 +29,26 @@
     </item>
     
     <item>
+      <title>Jie He</title>
+      <link>https://xucheng.org.cn/authors/jie-he/</link>
+      <pubDate>Wed, 14 Aug 2019 00:00:00 +0800</pubDate>
+      <guid>https://xucheng.org.cn/authors/jie-he/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Wei Su</title>
       <link>https://xucheng.org.cn/authors/wei-su/</link>
       <pubDate>Wed, 14 Aug 2019 00:00:00 +0800</pubDate>
       <guid>https://xucheng.org.cn/authors/wei-su/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xiaotong Zhang</title>
+      <link>https://xucheng.org.cn/authors/xiaotong-zhang/</link>
+      <pubDate>Wed, 14 Aug 2019 00:00:00 +0800</pubDate>
+      <guid>https://xucheng.org.cn/authors/xiaotong-zhang/</guid>
       <description></description>
     </item>
     
@@ -113,6 +97,14 @@
       <link>https://xucheng.org.cn/authors/cui-yao/</link>
       <pubDate>Mon, 08 Apr 2019 00:00:00 +0800</pubDate>
       <guid>https://xucheng.org.cn/authors/cui-yao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shihong Duan</title>
+      <link>https://xucheng.org.cn/authors/shihong-duan/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0800</pubDate>
+      <guid>https://xucheng.org.cn/authors/shihong-duan/</guid>
       <description></description>
     </item>
     

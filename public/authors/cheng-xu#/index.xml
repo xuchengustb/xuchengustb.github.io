@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>**Cheng Xu#*** | CHENG XU</title>
+    <title>**Cheng Xu**#* | CHENG XU</title>
     <link>https://xucheng.org.cn/authors/cheng-xu#/</link>
       <atom:link href="https://xucheng.org.cn/authors/cheng-xu#/index.xml" rel="self" type="application/rss+xml" />
-    <description>**Cheng Xu#***</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0800</lastBuildDate>
+    <description>**Cheng Xu**#*</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 14 Aug 2019 00:00:00 +0800</lastBuildDate>
     <image>
       <url>https://xucheng.org.cn/img/icon-192.png</url>
-      <title>**Cheng Xu#***</title>
+      <title>**Cheng Xu**#*</title>
       <link>https://xucheng.org.cn/authors/cheng-xu#/</link>
     </image>
-    
-    <item>
-      <title>Toward Emergency Rescue: A Template-Matching-based Orientation Algorithm using Human Occlusion Error Model</title>
-      <link>https://xucheng.org.cn/publication/p2p_error_modeling_phusical_communication_2019/</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0800</pubDate>
-      <guid>https://xucheng.org.cn/publication/p2p_error_modeling_phusical_communication_2019/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Iterative Reweighted DOA Estimation for Impulsive Noise Processing Based on Off-Grid Variational Bayesian Learning</title>
       <link>https://xucheng.org.cn/publication/access_doa_2019/</link>
       <pubDate>Wed, 14 Aug 2019 00:00:00 +0800</pubDate>
       <guid>https://xucheng.org.cn/publication/access_doa_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iterative Reweighted DOA Estimation for Impulsive Noise Processing Based on Off-Grid Variational Bayesian Learning</title>
+      <link>https://xucheng.org.cn/zh/publication/access_doa_2019/</link>
+      <pubDate>Wed, 14 Aug 2019 00:00:00 +0800</pubDate>
+      <guid>https://xucheng.org.cn/zh/publication/access_doa_2019/</guid>
       <description></description>
     </item>
     
