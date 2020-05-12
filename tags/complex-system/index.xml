@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>complex-system | CHENG XU</title>
+    <link>https://xucheng.org.cn/tags/complex-system/</link>
+      <atom:link href="https://xucheng.org.cn/tags/complex-system/index.xml" rel="self" type="application/rss+xml" />
+    <description>complex-system</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://xucheng.org.cn/img/icon-192.png</url>
+      <title>complex-system</title>
+      <link>https://xucheng.org.cn/tags/complex-system/</link>
+    </image>
+    
+    <item>
+      <title>Research on Collaborative Architecture of Cluster Tasks in Unstable Environment</title>
+      <link>https://xucheng.org.cn/project/framework_automatic_2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0800</pubDate>
+      <guid>https://xucheng.org.cn/project/framework_automatic_2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
