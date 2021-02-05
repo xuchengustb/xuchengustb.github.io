@@ -322,6 +322,11 @@
   </url>
   
   <url>
+    <loc>https://xucheng.org.cn/zh/project/alea/</loc>
+    <lastmod>2019-06-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://xucheng.org.cn/project/hmt_ustb_2019/</loc>
     <lastmod>2019-06-01T00:00:00+08:00</lastmod>
   </url>
@@ -339,6 +344,11 @@
                 hreflang="en"
                 href="https://xucheng.org.cn/tags/wireless-localization/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://xucheng.org.cn/zh/</loc>
+    <lastmod>2019-06-01T00:00:00+08:00</lastmod>
   </url>
   
   <url>
@@ -727,10 +737,6 @@
                 hreflang="en"
                 href="https://xucheng.org.cn/categories/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://xucheng.org.cn/zh/</loc>
   </url>
   
 </urlset>
