@@ -8,7 +8,7 @@
   
   <url>
     <loc>https://xucheng.org.cn/authors/cheng-xu/</loc>
-    <lastmod>2020-04-01T00:00:00+08:00</lastmod>
+    <lastmod>2021-02-01T00:00:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -23,7 +23,7 @@
   
   <url>
     <loc>https://xucheng.org.cn/publication_types/2/</loc>
-    <lastmod>2020-04-01T00:00:00+08:00</lastmod>
+    <lastmod>2021-02-01T00:00:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -38,7 +38,7 @@
   
   <url>
     <loc>https://xucheng.org.cn/authors/</loc>
-    <lastmod>2020-04-01T00:00:00+08:00</lastmod>
+    <lastmod>2021-02-01T00:00:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -53,7 +53,7 @@
   
   <url>
     <loc>https://xucheng.org.cn/</loc>
-    <lastmod>2020-04-01T00:00:00+08:00</lastmod>
+    <lastmod>2021-02-01T00:00:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -64,6 +64,76 @@
                 hreflang="en"
                 href="https://xucheng.org.cn/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://xucheng.org.cn/authors/jiawang-wan/</loc>
+    <lastmod>2021-02-01T00:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xucheng.org.cn/zh/authors/jiawang-wan/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xucheng.org.cn/authors/jiawang-wan/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xucheng.org.cn/publication_types/</loc>
+    <lastmod>2021-02-01T00:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xucheng.org.cn/zh/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xucheng.org.cn/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xucheng.org.cn/publication/</loc>
+    <lastmod>2021-02-01T00:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xucheng.org.cn/zh/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xucheng.org.cn/publication/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xucheng.org.cn/authors/shihong-duan/</loc>
+    <lastmod>2021-02-01T00:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xucheng.org.cn/zh/authors/shihong-duan/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xucheng.org.cn/authors/shihong-duan/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xucheng.org.cn/publication/jnca_2021/</loc>
+    <lastmod>2021-02-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xucheng.org.cn/authors/xinxin-wang/</loc>
+    <lastmod>2021-02-01T00:00:00+08:00</lastmod>
   </url>
   
   <url>
@@ -102,36 +172,6 @@
   </url>
   
   <url>
-    <loc>https://xucheng.org.cn/publication_types/</loc>
-    <lastmod>2020-04-01T00:00:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xucheng.org.cn/zh/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xucheng.org.cn/publication_types/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://xucheng.org.cn/publication/</loc>
-    <lastmod>2020-04-01T00:00:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xucheng.org.cn/zh/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xucheng.org.cn/publication/"
-                />
-  </url>
-  
-  <url>
     <loc>https://xucheng.org.cn/authors/ran-su/</loc>
     <lastmod>2020-04-01T00:00:00+08:00</lastmod>
   </url>
@@ -139,21 +179,6 @@
   <url>
     <loc>https://xucheng.org.cn/project/basic_shunde/</loc>
     <lastmod>2020-04-01T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://xucheng.org.cn/authors/shihong-duan/</loc>
-    <lastmod>2020-04-01T00:00:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xucheng.org.cn/zh/authors/shihong-duan/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xucheng.org.cn/authors/shihong-duan/"
-                />
   </url>
   
   <url>
@@ -214,21 +239,6 @@
   <url>
     <loc>https://xucheng.org.cn/publication/ieee_sj_2020/</loc>
     <lastmod>2020-01-17T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://xucheng.org.cn/authors/jiawang-wan/</loc>
-    <lastmod>2020-01-17T00:00:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xucheng.org.cn/zh/authors/jiawang-wan/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xucheng.org.cn/authors/jiawang-wan/"
-                />
   </url>
   
   <url>
@@ -703,10 +713,6 @@
                 hreflang="en"
                 href="https://xucheng.org.cn/authors/admin/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://xucheng.org.cn/zh/authors/admin/</loc>
   </url>
   
   <url>

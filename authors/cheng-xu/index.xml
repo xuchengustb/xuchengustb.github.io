@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>**Cheng Xu** | CHENG XU</title>
+    <title>**Cheng Xu*** | CHENG XU</title>
     <link>https://xucheng.org.cn/authors/cheng-xu/</link>
       <atom:link href="https://xucheng.org.cn/authors/cheng-xu/index.xml" rel="self" type="application/rss+xml" />
-    <description>**Cheng Xu**</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0800</lastBuildDate>
+    <description>**Cheng Xu***</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0800</lastBuildDate>
     <image>
       <url>https://xucheng.org.cn/img/icon-192.png</url>
-      <title>**Cheng Xu**</title>
+      <title>**Cheng Xu***</title>
       <link>https://xucheng.org.cn/authors/cheng-xu/</link>
     </image>
+    
+    <item>
+      <title>Spatial-temporal constrained particle filter for cooperative target tracking</title>
+      <link>https://xucheng.org.cn/publication/jnca_2021/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0800</pubDate>
+      <guid>https://xucheng.org.cn/publication/jnca_2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Ultra-Wideband Radio Channel Characteristics for Near-ground Swarm Robots Communication</title>

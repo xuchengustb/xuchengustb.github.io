@@ -5,12 +5,20 @@
     <link>https://xucheng.org.cn/authors/shihong-duan/</link>
       <atom:link href="https://xucheng.org.cn/authors/shihong-duan/index.xml" rel="self" type="application/rss+xml" />
     <description>Shihong Duan</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0800</lastBuildDate>
     <image>
       <url>https://xucheng.org.cn/img/icon-192.png</url>
       <title>Shihong Duan</title>
       <link>https://xucheng.org.cn/authors/shihong-duan/</link>
     </image>
+    
+    <item>
+      <title>Spatial-temporal constrained particle filter for cooperative target tracking</title>
+      <link>https://xucheng.org.cn/publication/jnca_2021/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0800</pubDate>
+      <guid>https://xucheng.org.cn/publication/jnca_2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Ultra-Wideband Radio Channel Characteristics for Near-ground Swarm Robots Communication</title>
