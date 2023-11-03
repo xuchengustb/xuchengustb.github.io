@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cheng Xu&#39;s Website ! on Cheng XU（徐 诚）</title>
-    <link>/docs/</link>
-    <description>Recent content in Cheng Xu&#39;s Website ! on Cheng XU（徐 诚）</description>
+    <title>Cheng XU（徐 诚）</title>
+    <link>/</link>
+    <description>Recent content on Cheng XU（徐 诚）</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 03 Nov 2023 14:00:00 +0000</lastBuildDate>
-    <atom:link href="/docs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Home</title>
       <link>/docs/home/</link>
@@ -24,7 +24,7 @@
       <guid>/docs/research/</guid>
       <description>&lt;p&gt;Part of this page still needs to be completed ! I am working on this : )&lt;/p&gt;
 &lt;h2 id=&#34;swarm-robotics&#34;&gt;Swarm Robotics&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;/img/FAQ.jpg&#34; alt=&#34;system&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/Swarm-robotics.webp&#34; alt=&#34;system&#34;&gt;&lt;/p&gt;
 &lt;p&gt;I am deeply passionate about exploring the fascinating world of swarm robotics, a cutting-edge field at the intersection of robotics, artificial intelligence, and collective behavior.&lt;/p&gt;
 &lt;h3 id=&#34;what-is-swarm-robotics&#34;&gt;What is Swarm Robotics?&lt;/h3&gt;
 &lt;p&gt;Swarm robotics involves the study of large groups of relatively simple robots that exhibit collective intelligence, similar to social insects in nature. These robots collaborate, communicate, and coordinate their actions to accomplish tasks, mirroring the behaviors observed in natural swarms. This area of research draws inspiration from biological systems, aiming to create intelligent robotic systems capable of solving complex problems through decentralized cooperation.&lt;/p&gt;</description>
