@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cheng XU</title>
+    <title>Cheng XU（徐 诚）</title>
     <link>/</link>
-    <description>Recent content on Cheng XU</description>
+    <description>Recent content on Cheng XU（徐 诚）</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Nov 2023 14:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Nov 2023 14:00:00 +0000</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Home</title>
       <link>/docs/home/</link>
-      <pubDate>Mon, 24 Jan 2022 14:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Nov 2023 14:00:00 +0000</pubDate>
       <guid>/docs/home/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;I am currently with the Microarchitecture and Integrated Circuit Laboratory (MICL), in &lt;a href=&#34;http://scce.ustb.edu.cn/&#34;&gt;School of Computer and Communication Engineering&lt;/a&gt;, &lt;a href=&#34;https://www.ustb.edu.cn/&#34;&gt;University of Science and Technology Beijing (USTB)&lt;/a&gt;.&lt;/p&gt;
@@ -20,34 +20,30 @@
     <item>
       <title>Research</title>
       <link>/docs/research/</link>
-      <pubDate>Mon, 24 Jan 2022 14:00:00 +0000</pubDate>
+      <pubDate>Thu, 02 Nov 2023 14:00:00 +0000</pubDate>
       <guid>/docs/research/</guid>
       <description>&lt;h2 id=&#34;swarm-robotics&#34;&gt;Swarm Robotics&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&#34;/img/FAQ.jpg&#34; alt=&#34;system&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;localization-and-navigation&#34;&gt;Localization and Navigation&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;/img/features.jpg&#34; alt=&#34;system&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;quantum-machine-learning&#34;&gt;Quantum Machine Learning&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;/img/markdown.webp&#34; alt=&#34;system&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Customization page describes common Mainroad configuration parameters which can be specified via configuration file or
-via Front Matter section. That includes logo section tuning, adding a sidebar with widgets, adjusting highlight color,
-and more.&lt;/p&gt;</description>
+&lt;p&gt;I am deeply passionate about exploring the fascinating world of swarm robotics, a cutting-edge field at the intersection of robotics, artificial intelligence, and collective behavior.&lt;/p&gt;
+&lt;h3 id=&#34;what-is-swarm-robotics&#34;&gt;What is Swarm Robotics?&lt;/h3&gt;
+&lt;p&gt;Swarm robotics involves the study of large groups of relatively simple robots that exhibit collective intelligence, similar to social insects in nature. These robots collaborate, communicate, and coordinate their actions to accomplish tasks, mirroring the behaviors observed in natural swarms. This area of research draws inspiration from biological systems, aiming to create intelligent robotic systems capable of solving complex problems through decentralized cooperation.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Publications</title>
       <link>/docs/publications/</link>
-      <pubDate>Wed, 01 Nov 2023 14:00:00 +0000</pubDate>
+      <pubDate>Fri, 03 Nov 2023 14:00:00 +0000</pubDate>
       <guid>/docs/publications/</guid>
       <description>&lt;p&gt;This is a FULL list of my publications sorted by &lt;strong&gt;year&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;My research mainly focuses on the topics of &lt;a href=&#34;/docs/publications_sr/&#34;&gt;Swarm Robotics&lt;/a&gt;, &lt;a href=&#34;/docs/publications_cln/&#34;&gt;Localization and Navigation&lt;/a&gt;, and &lt;a href=&#34;/docs/publications_qml/&#34;&gt;Quantum Machine Learning&lt;/a&gt;. Featured articles could also be referred to the &lt;a href=&#34;/docs/research/&#34; title=&#34;interests&#34;&gt;Research&lt;/a&gt;. Simply click on the above links to see the lists organized by topics.&lt;/p&gt;
+&lt;p&gt;My research mainly focuses on the topics of &lt;a href=&#34;/docs/publications_sr/&#34;&gt;Swarm Robotics&lt;/a&gt;, &lt;a href=&#34;/docs/publications_ds/&#34;&gt;Distributed Security&lt;/a&gt;, and &lt;a href=&#34;/docs/publications_qml/&#34;&gt;Quantum Machine Learning&lt;/a&gt;. Featured articles could also be referred to the &lt;a href=&#34;/docs/research/&#34; title=&#34;interests&#34;&gt;Research&lt;/a&gt;. Simply click on the above links to see the lists organized by topics.&lt;/p&gt;
 &lt;p&gt;You may click on the paper title to see a brief introduction or supplementary materials about each article.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Projects</title>
       <link>/docs/project/</link>
-      <pubDate>Mon, 24 Jan 2022 14:00:00 +0000</pubDate>
+      <pubDate>Fri, 03 Nov 2023 14:00:00 +0000</pubDate>
       <guid>/docs/project/</guid>
-      <description>&lt;p&gt;Browse this FAQ page to find answers to frequently asked questions that have not been covered elsewhere
-in the documentation.&lt;/p&gt;</description>
+      <description>This page is still under construction !
+Active Collaborative searching model and key algorithms for emergency rescue in uncertain environment National Science Foundation of China (NSFC) Blockchain Privacy Protection Technology Based on Confidential Computing Shandong Provincial Natural Science Foundation Smart Computing Joint Fund Closed TOA Signal Model and Key Algorithms for Emergency Rrescue Localization China Postdoctoral Science Foundation Key Technologies of Wearable Human Movement Tracking Guangdong Basic and Applied Basic Research Foundation Collaborative Localization and Navigation for Emergency Rescue in Blind Environments China National Postdoctoral Program for Innovative Talents Key Technologies of Cooperative Target Tracking Fundamental Research Funds for the Central Universities Collaborative Architecture of Cluster Tasks in Unstable Environment Institute of Automation, Chinese Academy of Sciences </description>
     </item>
     <item>
       <title>Open positions</title>
@@ -79,8 +75,9 @@ About Enrollment I can recruit Master students and co-supervise Doctoral student
       <link>/docs/publications_sr/</link>
       <pubDate>Wed, 01 Nov 2023 14:00:00 +0000</pubDate>
       <guid>/docs/publications_sr/</guid>
-      <description>Wan J, Xu C*, Chen W, Wang R, Zhang X*. Abrupt moving target tracking based on quantum enhanced particle filter[J]. **_ISA Transactions, 2023: S001905782300068X. PDF
-Wang R, Xu C*, Li R, Duan S, Zhang X. Cooperative Localization and Mapping based on UWB/IMU Fusion using Factor Graphs[J]. IEEE Sensors Journal, 2023: 1–1. PDF</description>
+      <description>Wang R, Xu C*, Wu H, Shi Y, Duan S, Zhang X. Gaussian Condensation Filter Based on Cooperative Constrained Particle Flow[J]. IEEE Internet of Things Journal, 2023, 10(15): 13533–13543. PDF
+Wang R, Xu C*, Li R, Duan S, Zhang X. Cooperative Localization and Mapping based on UWB/IMU Fusion using Factor Graphs[J]. IEEE Sensors Journal, 2023: 1–1. PDF
+Xu C*, Shi Y, Wan J, Duan S. Uncertainty Constrained Belief Propagation for Cooperative Target Tracking[J].</description>
     </item>
     <item>
       <title>Publications on Topic of Swarm Robotics</title>
@@ -88,82 +85,14 @@ Wang R, Xu C*, Li R, Duan S, Zhang X. Cooperative Localization and Mapping based
       <pubDate>Wed, 01 Nov 2023 14:00:00 +0000</pubDate>
       <guid>/docs/publications_qml/</guid>
       <description>Wan J, Xu C*, Chen W, Wang R, Zhang X*. Abrupt moving target tracking based on quantum enhanced particle filter[J]. **_ISA Transactions, 2023: S001905782300068X. PDF
-Wang R, Xu C*, Li R, Duan S, Zhang X. Cooperative Localization and Mapping based on UWB/IMU Fusion using Factor Graphs[J]. IEEE Sensors Journal, 2023: 1–1. PDF</description>
+Wan J, Xu C*, Qiao Y, Zhang X. Error Constraint Enhanced Particle Filter Using Quantum Particle Swarm Optimization[J]. IEEE Sensors Journal, 2021, 21(21): 24431–24439. PDF</description>
     </item>
     <item>
       <title>Publications on Topic of Swarm Robotics</title>
-      <link>/docs/publications_cln/</link>
+      <link>/docs/publications_ds/</link>
       <pubDate>Wed, 01 Nov 2023 14:00:00 +0000</pubDate>
-      <guid>/docs/publications_cln/</guid>
-      <description>Wan J, Xu C*, Chen W, Wang R, Zhang X*. Abrupt moving target tracking based on quantum enhanced particle filter[J]. **_ISA Transactions, 2023: S001905782300068X. PDF
-Wang R, Xu C*, Li R, Duan S, Zhang X. Cooperative Localization and Mapping based on UWB/IMU Fusion using Factor Graphs[J]. IEEE Sensors Journal, 2023: 1–1. PDF</description>
-    </item>
-    <item>
-      <title>Paper accepted 2</title>
-      <link>/post/post2/</link>
-      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>/post/post2/</guid>
-      <description>&lt;p&gt;Hugo uses the excellent &lt;a href=&#34;https://golang.org/&#34;&gt;Go&lt;/a&gt; &lt;a href=&#34;https://golang.org/pkg/html/template/&#34;&gt;html/template&lt;/a&gt; library for
-its template engine. It is an extremely lightweight engine that provides a very
-small amount of logic. In our experience that it is just the right amount of
-logic to be able to create a good static website. If you have used other
-template systems from different languages or frameworks you will find a lot of
-similarities in Go templates.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Paper accepted 3</title>
-      <link>/post/post2-copy/</link>
-      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>/post/post2-copy/</guid>
-      <description>&lt;p&gt;Hugo uses the excellent &lt;a href=&#34;https://golang.org/&#34;&gt;Go&lt;/a&gt; &lt;a href=&#34;https://golang.org/pkg/html/template/&#34;&gt;html/template&lt;/a&gt; library for
-its template engine. It is an extremely lightweight engine that provides a very
-small amount of logic. In our experience that it is just the right amount of
-logic to be able to create a good static website. If you have used other
-template systems from different languages or frameworks you will find a lot of
-similarities in Go templates.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Paper accepted 1</title>
-      <link>/post/post1/</link>
-      <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>/post/post1/</guid>
-      <description>&lt;p&gt;Hugo uses the excellent &lt;a href=&#34;https://golang.org/&#34;&gt;Go&lt;/a&gt; &lt;a href=&#34;https://golang.org/pkg/html/template/&#34;&gt;html/template&lt;/a&gt; library for
-its template engine. It is an extremely lightweight engine that provides a very
-small amount of logic. In our experience that it is just the right amount of
-logic to be able to create a good static website. If you have used other
-template systems from different languages or frameworks you will find a lot of
-similarities in Go templates.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Basic HTML Elements</title>
-      <link>/post/basic-elements/</link>
-      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>/post/basic-elements/</guid>
-      <description>&lt;p&gt;The main purpose of this article is to make sure that all basic HTML Elements are decorated with CSS so as to not miss any possible elements when creating new themes for Hugo.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>(Hu)go Template Primer</title>
-      <link>/post/hugo-template-primer/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>/post/hugo-template-primer/</guid>
-      <description>&lt;p&gt;Hugo uses the excellent &lt;a href=&#34;https://golang.org/&#34;&gt;Go&lt;/a&gt; &lt;a href=&#34;https://golang.org/pkg/html/template/&#34;&gt;html/template&lt;/a&gt; library for
-its template engine. It is an extremely lightweight engine that provides a very
-small amount of logic. In our experience that it is just the right amount of
-logic to be able to create a good static website. If you have used other
-template systems from different languages or frameworks you will find a lot of
-similarities in Go templates.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Getting Started with Hugo</title>
-      <link>/post/getting-started-with-hugo/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>/post/getting-started-with-hugo/</guid>
-      <description>Step 1. Install Hugo Go to Hugo releases and download the appropriate version for your OS and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at Install Hugo
-Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:
-Clone the Hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313 Corresponding pseudo commands:</description>
+      <guid>/docs/publications_ds/</guid>
+      <description> Wang R, Xu C*, Dong R, Luo Z, Zheng R, Zhang X*. A secured big-data sharing platform for materials genome engineering: State-of-the-art, challenges and architecture[J]. Future Generation Computer Systems, 2023, 142: 59–74. PDF </description>
     </item>
   </channel>
 </rss>

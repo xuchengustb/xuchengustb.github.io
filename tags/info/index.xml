@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>info on Cheng XU</title>
+    <title>info on Cheng XU（徐 诚）</title>
     <link>/tags/info/</link>
-    <description>Recent content in info on Cheng XU</description>
+    <description>Recent content in info on Cheng XU（徐 诚）</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Jan 2022 14:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Nov 2023 14:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/info/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Home</title>
       <link>/docs/home/</link>
-      <pubDate>Mon, 24 Jan 2022 14:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Nov 2023 14:00:00 +0000</pubDate>
       <guid>/docs/home/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;I am currently with the Microarchitecture and Integrated Circuit Laboratory (MICL), in &lt;a href=&#34;http://scce.ustb.edu.cn/&#34;&gt;School of Computer and Communication Engineering&lt;/a&gt;, &lt;a href=&#34;https://www.ustb.edu.cn/&#34;&gt;University of Science and Technology Beijing (USTB)&lt;/a&gt;.&lt;/p&gt;
