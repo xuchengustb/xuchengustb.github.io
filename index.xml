@@ -22,7 +22,8 @@
       <link>/docs/research/</link>
       <pubDate>Thu, 02 Nov 2023 14:00:00 +0000</pubDate>
       <guid>/docs/research/</guid>
-      <description>&lt;h2 id=&#34;swarm-robotics&#34;&gt;Swarm Robotics&lt;/h2&gt;
+      <description>&lt;p&gt;Part of this page still needs to be completed ! I am working on this : )&lt;/p&gt;
+&lt;h2 id=&#34;swarm-robotics&#34;&gt;Swarm Robotics&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&#34;/img/FAQ.jpg&#34; alt=&#34;system&#34;&gt;&lt;/p&gt;
 &lt;p&gt;I am deeply passionate about exploring the fascinating world of swarm robotics, a cutting-edge field at the intersection of robotics, artificial intelligence, and collective behavior.&lt;/p&gt;
 &lt;h3 id=&#34;what-is-swarm-robotics&#34;&gt;What is Swarm Robotics?&lt;/h3&gt;
@@ -64,7 +65,7 @@ Active Collaborative searching model and key algorithms for emergency rescue in 
     <item>
       <title>About</title>
       <link>/docs/about/</link>
-      <pubDate>Tue, 25 Jan 2022 14:00:00 +0000</pubDate>
+      <pubDate>Wed, 25 Oct 2023 14:00:00 +0000</pubDate>
       <guid>/docs/about/</guid>
       <description>I am currently with the Microarchitecture and Integrated Circuit Laboratory (MICL), in School of Computer and Communication Engineering, University of Science and Technology Beijing (USTB).
 My research interests are in the areas of wireless localization, statistical inference and collaborative computing methods to drive cluster robots to perform complex tasks autonomously and collaboratively in uncertain environments based on multi-intelligent body collaborative decision making.
