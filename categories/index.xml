@@ -1,16 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories | CHENG XU</title>
-    <link>https://xucheng.org.cn/categories/</link>
-      <atom:link href="https://xucheng.org.cn/categories/index.xml" rel="self" type="application/rss+xml" />
-    <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright>
-    <image>
-      <url>https://xucheng.org.cn/img/icon-192.png</url>
-      <title>Categories</title>
-      <link>https://xucheng.org.cn/categories/</link>
-    </image>
-    
+    <title>Categories on Cheng XU</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on Cheng XU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Development</title>
+      <link>/categories/development/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>/categories/development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>golang</title>
+      <link>/categories/golang/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>/categories/golang/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Localization and Navigation</title>
+      <link>/categories/localization-and-navigation/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>/categories/localization-and-navigation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quantum Machine Learning</title>
+      <link>/categories/quantum-machine-learning/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>/categories/quantum-machine-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Swarm Robotics</title>
+      <link>/categories/swarm-robotics/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>/categories/swarm-robotics/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

@@ -1,48 +1,82 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags | CHENG XU</title>
-    <link>https://xucheng.org.cn/tags/</link>
-      <atom:link href="https://xucheng.org.cn/tags/index.xml" rel="self" type="application/rss+xml" />
-    <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0800</lastBuildDate>
-    <image>
-      <url>https://xucheng.org.cn/img/icon-192.png</url>
-      <title>Tags</title>
-      <link>https://xucheng.org.cn/tags/</link>
-    </image>
-    
+    <title>Tags on Cheng XU</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Cheng XU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>human-motion-tracking</title>
-      <link>https://xucheng.org.cn/tags/human-motion-tracking/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 +0800</pubDate>
-      <guid>https://xucheng.org.cn/tags/human-motion-tracking/</guid>
+      <title>development</title>
+      <link>/tags/development/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>/tags/development/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>swarm-intelligence</title>
-      <link>https://xucheng.org.cn/tags/swarm-intelligence/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 +0800</pubDate>
-      <guid>https://xucheng.org.cn/tags/swarm-intelligence/</guid>
+      <title>go</title>
+      <link>/tags/go/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>/tags/go/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>complex-system</title>
-      <link>https://xucheng.org.cn/tags/complex-system/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0800</pubDate>
-      <guid>https://xucheng.org.cn/tags/complex-system/</guid>
+      <title>golang</title>
+      <link>/tags/golang/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>/tags/golang/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>wireless-localization</title>
-      <link>https://xucheng.org.cn/tags/wireless-localization/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0800</pubDate>
-      <guid>https://xucheng.org.cn/tags/wireless-localization/</guid>
+      <title>templates</title>
+      <link>/tags/templates/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>/tags/templates/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>themes</title>
+      <link>/tags/themes/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>/tags/themes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>info</title>
+      <link>/tags/info/</link>
+      <pubDate>Mon, 24 Jan 2022 14:00:00 +0000</pubDate>
+      <guid>/tags/info/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Basic Elements</title>
+      <link>/tags/basic-elements/</link>
+      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/basic-elements/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CSS</title>
+      <link>/tags/css/</link>
+      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/css/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HTML</title>
+      <link>/tags/html/</link>
+      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/html/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>hugo</title>
+      <link>/tags/hugo/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>/tags/hugo/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
