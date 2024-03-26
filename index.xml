@@ -75,24 +75,25 @@ I am leading the Swarm Intelligence and Collabrative Computing (SICC) Group, and
       <link>/docs/publications_sr/</link>
       <pubDate>Wed, 01 Nov 2023 14:00:00 +0000</pubDate>
       <guid>/docs/publications_sr/</guid>
-      <description>Wang R, Xu C*, Wu H, Shi Y, Duan S, Zhang X. Gaussian Condensation Filter Based on Cooperative Constrained Particle Flow[J]. IEEE Internet of Things Journal, 2023, 10(15): 13533–13543. PDF
-Wang R, Xu C*, Li R, Duan S, Zhang X. Cooperative Localization and Mapping based on UWB/IMU Fusion using Factor Graphs[J]. IEEE Sensors Journal, 2023: 1–1. PDF
-Xu C*, Shi Y, Wan J, Duan S. Uncertainty Constrained Belief Propagation for Cooperative Target Tracking[J].</description>
+      <description>Wang R, Jing Sun Xu C*, Li R, Duan S, Zhang X. Reinforcement Learning Compensated Filter for Multi-agents Cooperative Localization[C]. 2024 lEEE Internationa.Conference on Acoustics, Speech and Signal Procesing (IEEE ICASSP 2024), Seoul, Korea, 14-19 April 2024.
+Xu C, Su R, Wang R, Duan S*. Self-Attention Factor Graph Neural Network for Multi-Agent Collaborative Target Tracking[J]. IEEE Internet of Things Journal, 2024: 1–1. (online)
+Wang R, Xu C*, Wu H, Shi Y, Duan S, Zhang X.</description>
     </item>
     <item>
-      <title>Publications on Topic of Swarm Robotics</title>
+      <title>Publications on Topic of Quantum Machine Learning</title>
       <link>/docs/publications_qml/</link>
       <pubDate>Wed, 01 Nov 2023 14:00:00 +0000</pubDate>
       <guid>/docs/publications_qml/</guid>
-      <description>Wan J, Xu C*, Chen W, Wang R, Zhang X*. Abrupt moving target tracking based on quantum enhanced particle filter[J]. **_ISA Transactions, 2023: S001905782300068X. PDF
-Wan J, Xu C*, Qiao Y, Zhang X. Error Constraint Enhanced Particle Filter Using Quantum Particle Swarm Optimization[J]. IEEE Sensors Journal, 2021, 21(21): 24431–24439. PDF</description>
+      <description>Chen W, Wan J, Ye F, Wang R, Xu C*. QMARL: A Quantum Multi-Agent Reinforcement Learning Framework for Swarm Robots Navigation[C]. 2nd Workshop on Signal Processing for Autonomous Systems in 2024 lEEE Internationa.Conference on Acoustics, Speech and Signal Procesing (IEEE ICASSP 2024), Seoul, Korea, 14-19 April 2024. PDF
+Wan J, Xu C*, Chen W, Wang R, Zhang X*. Abrupt moving target tracking based on quantum enhanced particle filter[J]. **_ISA Transactions, 2023: S001905782300068X.</description>
     </item>
     <item>
-      <title>Publications on Topic of Swarm Robotics</title>
+      <title>Publications on Topic of Distributed Scurity</title>
       <link>/docs/publications_ds/</link>
       <pubDate>Wed, 01 Nov 2023 14:00:00 +0000</pubDate>
       <guid>/docs/publications_ds/</guid>
-      <description> Wang R, Xu C*, Dong R, Luo Z, Zheng R, Zhang X*. A secured big-data sharing platform for materials genome engineering: State-of-the-art, challenges and architecture[J]. Future Generation Computer Systems, 2023, 142: 59–74. PDF </description>
+      <description>Wang R, Xu C*, Ye F, Tang S, Zhang X*. S-MBDA: A Blockchain-Based Architecture for Secure Storage and Sharing of Material Big-Data[J]. IEEE Internet of Things Journal, 2024: 1–1. (online)
+Wang R, Xu C*, Dong R, Luo Z, Zheng R, Zhang X*. A secured big-data sharing platform for materials genome engineering: State-of-the-art, challenges and architecture[J]. Future Generation Computer Systems, 2023, 142: 59–74. PDF</description>
     </item>
   </channel>
 </rss>
