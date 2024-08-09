@@ -44,8 +44,7 @@
       <pubDate>Fri, 03 Nov 2023 14:00:00 +0000</pubDate>
       <guid>/docs/project/</guid>
       <description>This page is still under construction !
-MatSwarm
-Active Collaborative searching model and key algorithms for emergency rescue in uncertain environment National Science Foundation of China (NSFC) Blockchain Privacy Protection Technology Based on Confidential Computing Shandong Provincial Natural Science Foundation Smart Computing Joint Fund Closed TOA Signal Model and Key Algorithms for Emergency Rrescue Localization China Postdoctoral Science Foundation Key Technologies of Wearable Human Movement Tracking Guangdong Basic and Applied Basic Research Foundation Collaborative Localization and Navigation for Emergency Rescue in Blind Environments China National Postdoctoral Program for Innovative Talents Key Technologies of Cooperative Target Tracking Fundamental Research Funds for the Central Universities Collaborative Architecture of Cluster Tasks in Unstable Environment Institute of Automation, Chinese Academy of Sciences </description>
+MatSwarm</description>
     </item>
     <item>
       <title>Open positions</title>
@@ -76,9 +75,9 @@ I am leading the Swarm Intelligence and Collabrative Computing (SICC) Group, and
       <link>/docs/publications_sr/</link>
       <pubDate>Wed, 01 Nov 2023 14:00:00 +0000</pubDate>
       <guid>/docs/publications_sr/</guid>
-      <description>Wang R, Jing Sun Xu C*, Li R, Duan S, Zhang X. Reinforcement Learning Compensated Filter for Multi-agents Cooperative Localization[C]. 2024 lEEE Internationa.Conference on Acoustics, Speech and Signal Procesing (IEEE ICASSP 2024), Seoul, Korea, 14-19 April 2024.
-Xu C, Su R, Wang R, Duan S*. Self-Attention Factor Graph Neural Network for Multi-Agent Collaborative Target Tracking[J]. IEEE Internet of Things Journal, 2024: 1–1. (online)
-Wang R, Xu C*, Wu H, Shi Y, Duan S, Zhang X.</description>
+      <description>Wang R, Xu C*, Sun J, Duan S, Zhang X. Cooperative Localization for Multi-agents based on Reinforcement Learning Compensated Filter[J]. IEEE Journal on Selected Areas in Communications, 2024: 1–1. (online) PDF
+Wang R, Jing Sun Xu C*, Li R, Duan S, Zhang X. Reinforcement Learning Compensated Filter for Multi-agents Cooperative Localization[C]. 2024 lEEE Internationa.Conference on Acoustics, Speech and Signal Procesing (IEEE ICASSP 2024), Seoul, Korea, 14-19 April 2024.
+Xu C, Su R, Wang R, Duan S*.</description>
     </item>
     <item>
       <title>Publications on Topic of Quantum Machine Learning</title>
@@ -93,15 +92,9 @@ Wan J, Xu C*, Chen W, Wang R, Zhang X*. Abrupt moving target tracking based on q
       <link>/docs/publications_ds/</link>
       <pubDate>Wed, 01 Nov 2023 14:00:00 +0000</pubDate>
       <guid>/docs/publications_ds/</guid>
-      <description>Wang R, Xu C*, Ye F, Tang S, Zhang X*. S-MBDA: A Blockchain-Based Architecture for Secure Storage and Sharing of Material Big-Data[J]. IEEE Internet of Things Journal, 2024: 1–1. (online)
-Wang R, Xu C*, Dong R, Luo Z, Zheng R, Zhang X*. A secured big-data sharing platform for materials genome engineering: State-of-the-art, challenges and architecture[J]. Future Generation Computer Systems, 2023, 142: 59–74. PDF</description>
-    </item>
-    <item>
-      <title></title>
-      <link>/docs/projects/matswarm/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/docs/projects/matswarm/</guid>
-      <description>This is supplementary video for the paper MatSwarm. v1-Introduction of MatSwarm: This video presents the backgrounds of the NMDMS platform, and introduces MatSwarm framework as a whole on its basis. This is supplementary video for the paper MatSwarm. v2-MatSwarm-procedures: This video details the procedures of swarm learning tasks based on MatSwarm. This is supplementary video for the paper MatSwarm. v3-MatSwarm-operations: This video demonstrates the practical operation process of federated tasks based on MatSwarm.</description>
+      <description>Wang R, Xu C*, Zhang X*. Toward Materials Genome Big-Data: A Blockchain-based Secure Storage and Efficient Retrieval Method[J]. IEEE Transactions on Parallel and Distributed Systems, 2024: 1–1. (online) PDF
+Wang R, Xu C*, Ye F, Tang S, Zhang X*. S-MBDA: A Blockchain-Based Architecture for Secure Storage and Sharing of Material Big-Data[J]. IEEE Internet of Things Journal, 2024: 1–1. (online) PDF
+Wang R, Xu C*, Dong R, Luo Z, Zheng R, Zhang X*.</description>
     </item>
   </channel>
 </rss>
