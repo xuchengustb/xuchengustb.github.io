@@ -15,7 +15,7 @@
       <guid>/docs/home/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;I am currently with the Microarchitecture and Integrated Circuit Laboratory (MICL), in &lt;a href=&#34;http://scce.ustb.edu.cn/&#34;&gt;School of Computer and Communication Engineering&lt;/a&gt;, &lt;a href=&#34;https://www.ustb.edu.cn/&#34;&gt;University of Science and Technology Beijing (USTB)&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;I am leading the &lt;em&gt;&lt;strong&gt;Swarm Intelligence and Collabrative Computing&lt;/strong&gt;&lt;/em&gt; (SICC) Group, and our research interests are in the areas of wireless localization, statistical inference and collaborative computing methods to drive cluster robots to perform complex tasks autonomously and collaboratively in uncertain environments based on multi-intelligent body collaborative decision making.&lt;/p&gt;</description>
+&lt;p&gt;I am leading the &lt;em&gt;&lt;strong&gt;Swarm Intelligence and Collabrative Computing&lt;/strong&gt;&lt;/em&gt; (SICC) Group, and our research interests are in the areas of wireless localization, statistical inference and collaborative computing methods to drive swarm robots to perform complex tasks autonomously and collaboratively in uncertain environments based on multi-agent collaborative decision making.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Research</title>
@@ -53,8 +53,8 @@ MatSwarm</description>
       <guid>/docs/openings/</guid>
       <description>&lt;p&gt;Being an advisor to students is the best part of my job. Have a look at my &lt;a href=&#34;/docs/research/&#34; title=&#34;interests&#34;&gt;research interests&lt;/a&gt; and &lt;a href=&#34;/docs/publications/&#34; title=&#34;publications&#34;&gt;recent publications&lt;/a&gt;. If any of those grab you, send me with a CV and a short text describing your background.&lt;/p&gt;
 &lt;h2 id=&#34;for-graduates&#34;&gt;For graduates&lt;/h2&gt;
-&lt;p&gt;Generally, I am able to admit TWO to FOUR graduate students annually, including &lt;strong&gt;TWO&lt;/strong&gt; students at the main campus (Location: Beijing), and &lt;strong&gt;ONE to TWO&lt;/strong&gt; students at Shunde Innovation School (Location: Shunde, Guangdong) depending on the project execution status.&lt;/p&gt;
-&lt;p&gt;In addition, I also collaborate with other professors in the laboratory to co-supervise doctoral and master&amp;rsquo;s students. Generally, we jointly supervise no more than &lt;strong&gt;ONE&lt;/strong&gt; doctoral student and &lt;strong&gt;THREE&lt;/strong&gt; master&amp;rsquo;s students each year.&lt;/p&gt;
+&lt;p&gt;Generally, I am able to admit TWO to FOUR graduate students annually, including &lt;strong&gt;ONE&lt;/strong&gt; student at the main campus (Base: Beijing), and &lt;strong&gt;ONE&lt;/strong&gt; student at Shunde Innovation School (Base: Shunde, Guangdong) depending on the project execution status.&lt;/p&gt;
+&lt;p&gt;In addition, I also collaborate with other professors in the laboratory to co-supervise doctoral and master&amp;rsquo;s students. Generally, we jointly supervise no more than &lt;strong&gt;ONE&lt;/strong&gt; doctoral student and &lt;strong&gt;TWO&lt;/strong&gt; master&amp;rsquo;s students each year.&lt;/p&gt;
 &lt;p&gt;If you have any interest in getting enrolled in our group, please send me with a CV and a short text describing your background, to the following address: xucheng AT ustb.edu.cn.&lt;/p&gt;
 &lt;h2 id=&#34;for-undergraduates&#34;&gt;For undergraduates&lt;/h2&gt;
 &lt;p&gt;I am looking forward to outstanding undergraduates who are committed to swarm intelligence robot, deep learning and reinforcement learning. Those with good programming skills or solid mathematical background would be preferred.&lt;/p&gt;
@@ -68,7 +68,7 @@ MatSwarm</description>
       <pubDate>Wed, 25 Oct 2023 14:00:00 +0000</pubDate>
       <guid>/docs/about/</guid>
       <description>I am currently with the Microarchitecture and Integrated Circuit Laboratory (MICL), in School of Computer and Communication Engineering, University of Science and Technology Beijing (USTB).
-I am leading the Swarm Intelligence and Collabrative Computing (SICC) Group, and our research interests are in the areas of wireless localization, statistical inference and collaborative computing methods to drive cluster robots to perform complex tasks autonomously and collaboratively in uncertain environments based on multi-agent collaborative decision making.</description>
+I am leading the Swarm Intelligence and Collabrative Computing (SICC) Group, and our research interests are in the areas of wireless localization, statistical inference and collaborative computing methods to drive swarm robots to perform complex tasks autonomously and collaboratively in uncertain environments based on multi-agent collaborative decision making.</description>
     </item>
     <item>
       <title>Publications on Topic of Swarm Robotics</title>
@@ -76,15 +76,14 @@ I am leading the Swarm Intelligence and Collabrative Computing (SICC) Group, and
       <pubDate>Wed, 01 Nov 2023 14:00:00 +0000</pubDate>
       <guid>/docs/publications_sr/</guid>
       <description>Wang R, Xu C*, Sun J, Duan S, Zhang X. Cooperative Localization for Multi-agents based on Reinforcement Learning Compensated Filter[J]. IEEE Journal on Selected Areas in Communications, 2024: 1–1. (online) PDF
-Wang R, Jing Sun Xu C*, Li R, Duan S, Zhang X. Reinforcement Learning Compensated Filter for Multi-agents Cooperative Localization[C]. 2024 lEEE Internationa.Conference on Acoustics, Speech and Signal Procesing (IEEE ICASSP 2024), Seoul, Korea, 14-19 April 2024.
-Xu C, Su R, Wang R, Duan S*.</description>
+Wang R, Jing Sun Xu C*, Li R, Duan S, Zhang X. Reinforcement Learning Compensated Filter for Multi-agents Cooperative Localization[C]. 2024 lEEE International Conference on Acoustics, Speech and Signal Procesing (IEEE ICASSP 2024), Seoul, Korea, 14-19 April 2024.</description>
     </item>
     <item>
       <title>Publications on Topic of Quantum Machine Learning</title>
       <link>/docs/publications_qml/</link>
       <pubDate>Wed, 01 Nov 2023 14:00:00 +0000</pubDate>
       <guid>/docs/publications_qml/</guid>
-      <description>Chen W, Wan J, Ye F, Wang R, Xu C*. QMARL: A Quantum Multi-Agent Reinforcement Learning Framework for Swarm Robots Navigation[C]. 2nd Workshop on Signal Processing for Autonomous Systems in 2024 lEEE Internationa.Conference on Acoustics, Speech and Signal Procesing (IEEE ICASSP 2024), Seoul, Korea, 14-19 April 2024. PDF
+      <description>Chen W, Wan J, Ye F, Wang R, Xu C*. QMARL: A Quantum Multi-Agent Reinforcement Learning Framework for Swarm Robots Navigation[C]. 2nd Workshop on Signal Processing for Autonomous Systems in 2024 lEEE International Conference on Acoustics, Speech and Signal Procesing (IEEE ICASSP 2024), Seoul, Korea, 14-19 April 2024. PDF
 Wan J, Xu C*, Chen W, Wang R, Zhang X*. Abrupt moving target tracking based on quantum enhanced particle filter[J]. **_ISA Transactions, 2023: S001905782300068X.</description>
     </item>
     <item>
@@ -93,7 +92,7 @@ Wan J, Xu C*, Chen W, Wang R, Zhang X*. Abrupt moving target tracking based on q
       <pubDate>Wed, 01 Nov 2023 14:00:00 +0000</pubDate>
       <guid>/docs/publications_ds/</guid>
       <description>Wang R, Xu C*, Zhang X*. Toward Materials Genome Big-Data: A Blockchain-based Secure Storage and Efficient Retrieval Method[J]. IEEE Transactions on Parallel and Distributed Systems, 2024, 35(9): 1630–1643. PDF
-Wang R, Xu C*, Ye F, Tang S, Zhang X*. S-MBDA: A Blockchain-Based Architecture for Secure Storage and Sharing of Material Big-Data[J]. IEEE Internet of Things Journal, 2024, 11(15): 25505–25519. (online) PDF
+Wang R, Xu C*, Ye F, Tang S, Zhang X*. S-MBDA: A Blockchain-Based Architecture for Secure Storage and Sharing of Material Big-Data[J]. IEEE Internet of Things Journal, 2024, 11(15): 25505–25519. PDF
 Wang R, Xu C*, Dong R, Luo Z, Zheng R, Zhang X*.</description>
     </item>
     <item>
