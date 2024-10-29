@@ -12,7 +12,7 @@
       <link>/projects/matswarm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/projects/matswarm/</guid>
-      <description>This is supplementary video for the paper MatSwarm. v1-Introduction of MatSwarm: This video presents the backgrounds of the NMDMS platform, and introduces MatSwarm framework as a whole on its basis. This is supplementary video for the paper MatSwarm. v2-MatSwarm-procedures: This video details the procedures of swarm learning tasks based on MatSwarm. This is supplementary video for the paper MatSwarm. v3-MatSwarm-operations: This video demonstrates the practical operation process of federated tasks based on MatSwarm.</description>
+      <description>MatSwarm: Trusted Swarm Transfer Learning in NMDMS The rapid progression of Industry 4.0 has created a critical need for efficient collaboration among material research institutions to accelerate the discovery of advanced materials. However, existing platforms face challenges in effectively aggregating, normalizing, and utilizing large-scale heterogeneous data, leading to data silos and limited collaboration. Many current solutions fall short in supporting true cross-institutional data sharing and utilization, restricting the potential of material data for innovative research.</description>
     </item>
   </channel>
 </rss>

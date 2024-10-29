@@ -23,14 +23,14 @@
     <item>
       <title>Research</title>
       <link>/docs/research/</link>
-      <pubDate>Thu, 02 Nov 2023 14:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/docs/research/</guid>
       <description>&lt;p&gt;Part of this page still needs to be completed ! I am working on this : )&lt;/p&gt;</description>
     </item>
     <item>
       <title>Publications</title>
       <link>/docs/publications/</link>
-      <pubDate>Fri, 03 Nov 2023 14:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/docs/publications/</guid>
       <description>&lt;p&gt;This is a FULL list of my &lt;em&gt;first/correspoding-author publications&lt;/em&gt; sorted by &lt;strong&gt;year&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;My research mainly focuses on the topics of &lt;a href=&#34;/docs/publications_sr/&#34;&gt;Swarm Robotics&lt;/a&gt;, &lt;a href=&#34;/docs/publications_ds/&#34;&gt;Distributed Security&lt;/a&gt;, and &lt;a href=&#34;/docs/publications_qml/&#34;&gt;Quantum Machine Learning&lt;/a&gt;. Featured articles could also be referred to the &lt;a href=&#34;/docs/research/&#34; title=&#34;interests&#34;&gt;Research&lt;/a&gt;. Simply click on the above links to see the lists organized by topics.&lt;/p&gt;
@@ -42,7 +42,7 @@
       <pubDate>Fri, 03 Nov 2023 14:00:00 +0000</pubDate>
       <guid>/docs/project/</guid>
       <description>This page is still under construction !
-MatSwarm</description>
+MatSwarm The rapid evolution of Industry 4.0 demands seamless collaboration among material research institutions to speed up advanced material discovery. The current platforms struggle with integrating large-scale, heterogeneous datasets, leading to data silos that hinder collaboration and innovation. The University of Science and Technology Beijing addresses these challenges through the National Material Data Management and Services (NMDMS) platform, which aggregates over 14 million material data entries from 30+ institutions, supporting high-throughput experimentation and collaborative research in materials genomic engineering.</description>
     </item>
     <item>
       <title>Open positions</title>
@@ -81,7 +81,8 @@ Wan J, Xu C*, Chen W, Wang R, Zhang X*. Abrupt moving target tracking based on q
       <link>/docs/publications_ds/</link>
       <pubDate>Wed, 01 Nov 2023 14:00:00 +0000</pubDate>
       <guid>/docs/publications_ds/</guid>
-      <description>Wang R, Xu C*, Shuhao Zhang, Fangwen Ye, Yusen Tang, Sisui Tang, Hangning Zhang, Wendi Du, Zhang X*. MatSwarm: Trusted Swarm Transfer Learning Driven Materials Computation for Secure Big Data Sharing[J]. Nature Communications, 2024. Accepted Wang R, Xu C*, Zhang X*. Toward Materials Genome Big-Data: A Blockchain-based Secure Storage and Efficient Retrieval Method[J]. IEEE Transactions on Parallel and Distributed Systems, 2024, 35(9): 1630–1643. PDF
+      <description>Wang R, Xu C*, Shuhao Zhang, Fangwen Ye, Yusen Tang, Sisui Tang, Hangning Zhang, Wendi Du, Zhang X*. MatSwarm: Trusted Swarm Transfer Learning Driven Materials Computation for Secure Big Data Sharing[J]. Nature Communications, 2024, 15(9290): 1-14. PDF
+Wang R, Xu C*, Zhang X*. Toward Materials Genome Big-Data: A Blockchain-based Secure Storage and Efficient Retrieval Method[J]. IEEE Transactions on Parallel and Distributed Systems, 2024, 35(9): 1630–1643. PDF
 Wang R, Xu C*, Ye F, Tang S, Zhang X*.</description>
     </item>
   </channel>
