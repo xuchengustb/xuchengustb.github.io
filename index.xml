@@ -87,6 +87,13 @@ Wang R, Xu C*, Ye F, Tang S, Zhang X*.</description>
     </item>
     <item>
       <title></title>
+      <link>/projects/fedmdh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/projects/fedmdh/</guid>
+      <description>FedMDH: A Federated Learning Framework for Effective Sharing of Multi-Dimensional Heterogeneous Materials Data In the field of materials science, due to various factors such as material sources, testing equipment, and technical methods, the data distributions across different organizations are often non-identical and non-independent (non-i.i.d.) . This data heterogeneity can manifest in various forms, including 1) feature space disparity, 2) sample imbalance, and 3) label distribution variance. We define it as multi-dimensional heterogeneity (MDH).</description>
+    </item>
+    <item>
+      <title></title>
       <link>/projects/matswarm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/projects/matswarm/</guid>

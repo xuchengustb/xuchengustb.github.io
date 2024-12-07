@@ -8,16 +8,16 @@
 	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
 	<meta name="description" content="">
 		<meta property="og:title" content="" />
-<meta property="og:description" content="MatSwarm: Trusted Swarm Transfer Learning in NMDMS The rapid progression of Industry 4.0 has created a critical need for efficient collaboration among material research institutions to accelerate the discovery of advanced materials. However, existing platforms face challenges in effectively aggregating, normalizing, and utilizing large-scale heterogeneous data, leading to data silos and limited collaboration. Many current solutions fall short in supporting true cross-institutional data sharing and utilization, restricting the potential of material data for innovative research." />
+<meta property="og:description" content="FedMDH: A Federated Learning Framework for Effective Sharing of Multi-Dimensional Heterogeneous Materials Data In the field of materials science, due to various factors such as material sources, testing equipment, and technical methods, the data distributions across different organizations are often non-identical and non-independent (non-i.i.d.) . This data heterogeneity can manifest in various forms, including 1) feature space disparity, 2) sample imbalance, and 3) label distribution variance. We define it as multi-dimensional heterogeneity (MDH)." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="/projects/matswarm/" /><meta property="article:section" content="projects" />
+<meta property="og:url" content="/projects/fedmdh/" /><meta property="article:section" content="projects" />
 
 
 
 
 		<meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content=""/>
-<meta name="twitter:description" content="MatSwarm: Trusted Swarm Transfer Learning in NMDMS The rapid progression of Industry 4.0 has created a critical need for efficient collaboration among material research institutions to accelerate the discovery of advanced materials. However, existing platforms face challenges in effectively aggregating, normalizing, and utilizing large-scale heterogeneous data, leading to data silos and limited collaboration. Many current solutions fall short in supporting true cross-institutional data sharing and utilization, restricting the potential of material data for innovative research."/>
+<meta name="twitter:description" content="FedMDH: A Federated Learning Framework for Effective Sharing of Multi-Dimensional Heterogeneous Materials Data In the field of materials science, due to various factors such as material sources, testing equipment, and technical methods, the data distributions across different organizations are often non-identical and non-independent (non-i.i.d.) . This data heterogeneity can manifest in various forms, including 1) feature space disparity, 2) sample imbalance, and 3) label distribution variance. We define it as multi-dimensional heterogeneity (MDH)."/>
 
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link rel="dns-prefetch" href="//fonts.googleapis.com">
@@ -108,22 +108,10 @@
 			
 		</header>
 		<div class="content post__content clearfix">
-			<h1 id="matswarm-trusted-swarm-transfer-learning-in-nmdms">MatSwarm: Trusted Swarm Transfer Learning in NMDMS</h1>
-<p>The rapid progression of Industry 4.0 has created a critical need for efficient collaboration among material research institutions to accelerate the discovery of advanced materials. However, existing platforms face challenges in effectively aggregating, normalizing, and utilizing large-scale heterogeneous data, leading to data silos and limited collaboration. Many current solutions fall short in supporting true cross-institutional data sharing and utilization, restricting the potential of material data for innovative research.</p>
-<h2 id="national-material-data-management-and-services-nmdms">National Material Data Management and Services (NMDMS)</h2>
-<p>To address these challenges, researchers from University of Sciecne and Technology Beijing have developed and deployed a novel big data aggregation and sharing framework within the National Material Data Management and Services (NMDMS) platform, now actively serving over thirty research institutions and enterprises in the materials domain across China. The NMDMS platform has successfully aggregated over 14 million material data entries, becoming a critical resource for collaborative intelligence in materials genomic engineering. This real-world deployment has demonstrated significant value in supporting high-throughput experimentation and collaborative research, positioning the platform as a vital tool for advancing materials science.</p>
-<p>What sets the platform apart is its ability to seamlessly handle heterogeneous datasets from multiple sources. By introducing advanced data normalization techniques and distributed storage architecture, the platform enables efficient and scalable aggregation of diverse data, providing users with access to comprehensive, high-quality material datasets. These innovations allow institutions to collaborate and share data more effectively, something traditional platforms have struggled to achieve at this scale.</p>
-<p>The following video presents the backgrounds of the NMDMS platform, and introduces MatSwarm framework as a whole on its basis.</p>
-<p><a href="https://www.youtube.com/watch?v=X8b6YW36ybU" title="Introduction of MatSwarm"><img src="https://res.cloudinary.com/marcomontalbano/image/upload/v1718164201/video_to_markdown/images/youtube--X8b6YW36ybU-c05b58ac6eb4c4700831b2b3070cd403.jpg" alt="Introduction of MatSwarm"></a></p>
-<h2 id="matswarm-trusted-swarm-transfer-learning-in-nmdms-1">MatSwarm: Trusted Swarm Transfer Learning in NMDMS</h2>
-<p>Further distinguishing the NMDMS platform is its integration of a blockchain-based middleware, which secures data exchanges between organizations while maintaining the independence of their systems. This ensures both data integrity and confidentiality, addressing key concerns in multi-institutional collaborations. Through these unique features, the platform facilitates a trusted and efficient environment for data sharing and computation, driving significant progress in materials research.</p>
-<p>The MatSwarm framework was proposed to achieve collaborative computing for the materials domain. Building upon existing swarm learning, which integrates federated learning with blockchain technology, MatSwarm introduces  swarm transfer learning method to enhance the congruence of local model parameters across different organizations. This approach significantly improves the accuracy and generalization of models trained on non-independent and identically distributed (non-i.i.d.) data.</p>
-<h2 id="enabling-secure-and-collaborative-materials-computation-of-the-future">Enabling Secure and Collaborative Materials Computation of the Future</h2>
-<p>The NMDMS platform represents a major advancement in materials genomic engineering. MatSwarm not only addresses the challenges of heterogeneous data integration and secure sharing but also demonstrates its value through successful deployment and application in real-world scenarios. This pioneering platform is poised to continue driving innovation, accelerating material discovery, and fostering collaboration in the materials science community.</p>
-<p>The following video details the procedures of swarm learning tasks based on MatSwarm.</p>
-<p><a href="https://www.youtube.com/watch?v=7lX4OG1Qs2Q" title="MatSwarm-procedures"><img src="https://res.cloudinary.com/marcomontalbano/image/upload/v1718164281/video_to_markdown/images/youtube--7lX4OG1Qs2Q-c05b58ac6eb4c4700831b2b3070cd403.jpg" alt="MatSwarm-procedures"></a></p>
-<p>The following video demonstrates the practical operation process of federated tasks based on MatSwarm.</p>
-<p><a href="https://www.youtube.com/watch?v=kvreIkWZaGA" title="MatSwarm-operations"><img src="https://res.cloudinary.com/marcomontalbano/image/upload/v1718164326/video_to_markdown/images/youtube--kvreIkWZaGA-c05b58ac6eb4c4700831b2b3070cd403.jpg" alt="MatSwarm-operations"></a></p>
+			<h1 id="fedmdh-a-federated-learning-framework-for-effective-sharing-of-multi-dimensional-heterogeneous-materials-data">FedMDH: A Federated Learning Framework for Effective Sharing of Multi-Dimensional Heterogeneous Materials Data</h1>
+<p><a href="https://youtu.be/f7w9tbDljNQ" title="FedMDH Showcase"><img src="https://res.cloudinary.com/marcomontalbano/image/upload/v1730950248/video_to_markdown/images/youtube--f7w9tbDljNQ-c05b58ac6eb4c4700831b2b3070cd403.jpg" alt="FedMDH Showcase"></a></p>
+<p>In the field of materials science, due to various factors such as material sources, testing equipment, and technical methods, the data distributions across different organizations are often non-identical and non-independent (non-i.i.d.) . This data heterogeneity can manifest in various forms, including 1) feature space disparity, 2) sample imbalance, and 3) label distribution variance. We define it as multi-dimensional heterogeneity (MDH). To overcome these challenges, we introduce FedMDH, a federated learning framework designed to tackle Multi-Dimensional Heterogeneity. While FedMDH is applicable to various downstream tasks, this work focuses on the widespread, complex, and underexplored regression tasks in materials science.</p>
+<p>Our experiments on real-world datasets from the NMDMS platform demonstrate that FedMDH significantly outperforms existing methods, offering superior accuracy and enhanced generalization across multi-dimensional heterogeneity. The successful deployment of FedMDH within the NMDMS platform further unlocks the full potential of material data, accelerates material discovery, and meets the demands of high-throughput computing and experimentation.</p>
 
 		</div>
 	</article>
@@ -142,9 +130,9 @@
 </div>
 
 <nav class="pager flex">
-	<div class="pager__item pager__item--next">
-		<a class="pager__link" href="/projects/fedmdh/" rel="next">
-			<span class="pager__subtitle">Next&thinsp;»</span>
+	<div class="pager__item pager__item--prev">
+		<a class="pager__link" href="/projects/matswarm/" rel="prev">
+			<span class="pager__subtitle">«&thinsp;Previous</span>
 			<p class="pager__title"></p>
 		</a>
 	</div>
