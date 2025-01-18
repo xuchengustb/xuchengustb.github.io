@@ -61,23 +61,24 @@ I am leading the Swarm Intelligence and Collabrative Computing (SICC) Group, whe
 In swarm robotics, we investigate how multi-agent systems can autonomously and cooperatively perform complex tasks in uncertain environments, leveraging wireless localization, reinforcement learning, and quantum machine learning.</description>
     </item>
     <item>
-      <title>Publications on Topic of Swarm Robotics</title>
+      <title>Publications on Swarm Robotics</title>
       <link>/docs/publications_sr/</link>
       <pubDate>Wed, 01 Nov 2023 14:00:00 +0000</pubDate>
       <guid>/docs/publications_sr/</guid>
-      <description>Wang R, Xu C*, Sun J, Duan S, Zhang X. Cooperative Localization for Multi-agents based on Reinforcement Learning Compensated Filter[J]. IEEE Journal on Selected Areas in Communications, 2024, 42(10): 2820–2831. PDF
-Wang R, Jing Sun Xu C*, Li R, Duan S, Zhang X. Reinforcement Learning Compensated Filter for Multi-agents Cooperative Localization[C]. 2024 lEEE International Conference on Acoustics, Speech and Signal Procesing (IEEE ICASSP 2024), Seoul, Korea, 14-19 April 2024.</description>
+      <description>Wan J, Xu C*, Shi Y, Chen W, Ye F, Wang R, Zhang X. Multi-target Cooperative Motion Tracking Based on Quantum Belief Propagation[J]. IEEE Internet of Things Journal, 2025. Online Early Access
+Wang R, Xu C*, Sun J, Duan S, Zhang X. Cooperative Localization for Multi-agents based on Reinforcement Learning Compensated Filter[J]. IEEE Journal on Selected Areas in Communications, 2024, 42(10): 2820–2831. PDF
+Wang R, Jing Sun Xu C*, Li R, Duan S, Zhang X.</description>
     </item>
     <item>
-      <title>Publications on Topic of Quantum Machine Learning</title>
+      <title>Publications on Quantum ML</title>
       <link>/docs/publications_qml/</link>
       <pubDate>Wed, 01 Nov 2023 14:00:00 +0000</pubDate>
       <guid>/docs/publications_qml/</guid>
-      <description>Chen W, Wan J, Ye F, Wang R, Xu C*. QMARL: A Quantum Multi-Agent Reinforcement Learning Framework for Swarm Robots Navigation[C]. 2nd Workshop on Signal Processing for Autonomous Systems in 2024 lEEE International Conference on Acoustics, Speech and Signal Procesing (IEEE ICASSP 2024), Seoul, Korea, 14-19 April 2024. PDF
-Wan J, Xu C*, Chen W, Wang R, Zhang X*. Abrupt moving target tracking based on quantum enhanced particle filter[J]. ISA Transactions, 2023: S001905782300068X.</description>
+      <description>Wan J, Xu C*, Shi Y, Chen W, Ye F, Wang R, Zhang X. Multi-target Cooperative Motion Tracking Based on Quantum Belief Propagation[J]. IEEE Internet of Things Journal, 2025. Online Early Access
+Chen W, Wan J, Ye F, Wang R, Xu C*. QMARL: A Quantum Multi-Agent Reinforcement Learning Framework for Swarm Robots Navigation[C]. 2nd Workshop on Signal Processing for Autonomous Systems in 2024 lEEE International Conference on Acoustics, Speech and Signal Procesing (IEEE ICASSP 2024), Seoul, Korea, 14-19 April 2024.</description>
     </item>
     <item>
-      <title>Publications on Topic of Distributed Scurity</title>
+      <title>Publications on Distributed Scurity</title>
       <link>/docs/publications_ds/</link>
       <pubDate>Wed, 01 Nov 2023 14:00:00 +0000</pubDate>
       <guid>/docs/publications_ds/</guid>
