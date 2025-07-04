@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>信息 on Cheng XU（徐 诚）</title>
+    <link>/zh/tags/%E4%BF%A1%E6%81%AF/</link>
+    <description>Recent content in 信息 on Cheng XU（徐 诚）</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Thu, 19 Sep 2024 14:00:00 +0000</lastBuildDate>
+    <atom:link href="/zh/tags/%E4%BF%A1%E6%81%AF/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>首页</title>
+      <link>/zh/docs/home/</link>
+      <pubDate>Thu, 19 Sep 2024 14:00:00 +0000</pubDate>
+      <guid>/zh/docs/home/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;我目前就职于 &lt;a href=&#34;https://www.ustb.edu.cn/&#34;&gt;北京科技大学&lt;/a&gt; &lt;a href=&#34;http://scce.ustb.edu.cn/&#34;&gt;计算机与通信工程学院&lt;/a&gt; 的微架构与集成电路实验室（MICL）。&lt;/p&gt;
+&lt;p&gt;我带领 &lt;em&gt;&lt;strong&gt;群体智能与协同计算&lt;/strong&gt;&lt;/em&gt;（SICC）研究组，研究方向聚焦于群体学习，致力于分布式系统中的协同决策、鲁棒性增强以及安全学习。我们的研究涵盖两个主要领域：&lt;em&gt;&lt;strong&gt;机器人技术&lt;/strong&gt;&lt;/em&gt; 与 &lt;em&gt;&lt;strong&gt;材料大数据&lt;/strong&gt;&lt;/em&gt;。&lt;/p&gt;
+&lt;p&gt;在 &lt;a href=&#34;/zh/docs/publications_sr/&#34;&gt;群体机器人&lt;/a&gt; 方向，我们研究多智能体系统如何在不确定环境中自主协作地完成复杂任务，应用无线定位、强化学习与量子机器学习等技术；而在 &lt;a href=&#34;/zh/docs/publications_ds/&#34;&gt;材料科学&lt;/a&gt; 方向，我们探索大规模材料数据的协同计算与安全处理方法。&lt;/p&gt;
+&lt;p&gt;这两个领域的共通点在于它们都基于 &lt;strong&gt;多智能体系统&lt;/strong&gt; 理论基础，这使我们可以将统一的理论方法应用于多样化的实践场景。我们的部分研究还致力于提升基于群体的决策系统与分布式学习系统的鲁棒性与安全性。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;关键词&lt;/strong&gt;&lt;/em&gt;：群体机器人、多智能体系统、强化学习、定位与导航、量子机器学习、区块链、联邦学习、分布式安全、材料大数据、AI4Science&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

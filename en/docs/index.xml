@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cheng Xu&#39;s Website ! on Cheng XU（徐 诚）</title>
+    <link>/en/docs/</link>
+    <description>Recent content in Cheng Xu&#39;s Website ! on Cheng XU（徐 诚）</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 19 Sep 2024 14:00:00 +0000</lastBuildDate>
+    <atom:link href="/en/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Home</title>
+      <link>/en/docs/home/</link>
+      <pubDate>Thu, 19 Sep 2024 14:00:00 +0000</pubDate>
+      <guid>/en/docs/home/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;I am currently with the Microarchitecture and Integrated Circuit Laboratory (MICL), in &lt;a href=&#34;http://scce.ustb.edu.cn/&#34;&gt;School of Computer and Communication Engineering&lt;/a&gt;, &lt;a href=&#34;https://www.ustb.edu.cn/&#34;&gt;University of Science and Technology Beijing (USTB)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I am leading the &lt;em&gt;&lt;strong&gt;Swarm Intelligence and Collabrative Computing&lt;/strong&gt;&lt;/em&gt; (SICC) Group, where our research centers on swarm learning, focusing on collaborative decision-making, robustness, and secure learning within distributed systems. Our work spans two primary domains: &lt;em&gt;&lt;strong&gt;robotics&lt;/strong&gt;&lt;/em&gt; and &lt;em&gt;&lt;strong&gt;materials big-data&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;In &lt;a href=&#34;/en/docs/publications_sr/&#34;&gt;swarm robotics&lt;/a&gt;, we investigate how multi-agent systems can autonomously and cooperatively perform complex tasks in uncertain environments, leveraging wireless localization, reinforcement learning, and quantum machine learning. Meanwhile, in &lt;a href=&#34;/en/docs/publications_ds/&#34;&gt;materials science&lt;/a&gt;, we explore collaborative computation and secure data handling for large-scale materials datasets.&lt;/p&gt;
+&lt;p&gt;The common thread between these domains is their foundation in &lt;strong&gt;multi-agent systems&lt;/strong&gt;, which allows us to apply unified theoretical approaches across diverse applications. Part of our research aims to enhance robustness and security in swarm-based decision-making and distributed learning systems.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Keywords&lt;/strong&gt;&lt;/em&gt;: Swarm Robotics, Multi-Agent System, Reinforcement Learning, Localization and Navigation, Quantum Machine Learning, Blockchain, Federated Learning, Distributed Security, Materials Big-data, and AI4Science.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>/en/docs/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/en/docs/research/</guid>
+      <description>&lt;p&gt;Part of this page still needs to be completed ! I am working on this : )&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Publications</title>
+      <link>/en/docs/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/en/docs/publications/</guid>
+      <description>&lt;p&gt;This is a FULL list of my &lt;em&gt;first/correspoding-author publications&lt;/em&gt; sorted by &lt;strong&gt;year&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;My research mainly focuses on the topics of &lt;a href=&#34;/en/docs/publications_sr/&#34;&gt;Swarm Robotics&lt;/a&gt;, &lt;a href=&#34;/en/docs/publications_ds/&#34;&gt;Distributed Security&lt;/a&gt;, and &lt;a href=&#34;/en/docs/publications_qml/&#34;&gt;Quantum Machine Learning&lt;/a&gt;. Featured articles could also be referred to the &lt;a href=&#34;/en/docs/research/&#34; title=&#34;interests&#34;&gt;Research&lt;/a&gt;. Simply click on the above links to see the lists organized by topics.&lt;/p&gt;
+&lt;p&gt;You may click on the paper title to see a brief introduction or supplementary materials about each article.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>/en/docs/project/</link>
+      <pubDate>Fri, 03 Nov 2023 14:00:00 +0000</pubDate>
+      <guid>/en/docs/project/</guid>
+      <description>This page is still under construction !
+MatSwarm The rapid evolution of Industry 4.0 demands seamless collaboration among material research institutions to speed up advanced material discovery. The current platforms struggle with integrating large-scale, heterogeneous datasets, leading to data silos that hinder collaboration and innovation. The University of Science and Technology Beijing addresses these challenges through the National Material Data Management and Services (NMDMS) platform, which aggregates over 14 million material data entries from 30+ institutions, supporting high-throughput experimentation and collaborative research in materials genomic engineering.</description>
+    </item>
+    <item>
+      <title>Open positions</title>
+      <link>/en/docs/openings/</link>
+      <pubDate>Fri, 03 Nov 2023 14:00:00 +0000</pubDate>
+      <guid>/en/docs/openings/</guid>
+      <description>&lt;p&gt;Being an advisor to students is the best part of my job. Have a look at my &lt;a href=&#34;/en/docs/research/&#34; title=&#34;interests&#34;&gt;research interests&lt;/a&gt; and &lt;a href=&#34;/en/docs/publications/&#34; title=&#34;publications&#34;&gt;recent publications&lt;/a&gt;. If any of those grab you, send me with a CV and a short text describing your background.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>/en/docs/about/</link>
+      <pubDate>Wed, 25 Oct 2023 14:00:00 +0000</pubDate>
+      <guid>/en/docs/about/</guid>
+      <description>I am currently with the Microarchitecture and Integrated Circuit Laboratory (MICL), in School of Computer and Communication Engineering, University of Science and Technology Beijing (USTB).
+I am leading the Swarm Intelligence and Collabrative Computing (SICC) Group, where our research centers on swarm learning, focusing on collaborative decision-making, robustness, and secure learning within distributed systems. Our work spans two primary domains: robotics and materials big-data.
+In swarm robotics, we investigate how multi-agent systems can autonomously and cooperatively perform complex tasks in uncertain environments, leveraging wireless localization, reinforcement learning, and quantum machine learning.</description>
+    </item>
+    <item>
+      <title>Publications on Swarm Robotics</title>
+      <link>/en/docs/publications_sr/</link>
+      <pubDate>Wed, 01 Nov 2023 14:00:00 +0000</pubDate>
+      <guid>/en/docs/publications_sr/</guid>
+      <description>Wan J, Xu C*, Shi Y, Chen W, Ye F, Wang R, Zhang X. Multi-target Cooperative Motion Tracking Based on Quantum Belief Propagation[J]. IEEE Internet of Things Journal, 2025. Online Early Access
+Wang R, Xu C*, Sun J, Duan S, Zhang X. Cooperative Localization for Multi-agents based on Reinforcement Learning Compensated Filter[J]. IEEE Journal on Selected Areas in Communications, 2024, 42(10): 2820–2831. PDF
+Wang R, Jing Sun Xu C*, Li R, Duan S, Zhang X.</description>
+    </item>
+    <item>
+      <title>Publications on Quantum ML</title>
+      <link>/en/docs/publications_qml/</link>
+      <pubDate>Wed, 01 Nov 2023 14:00:00 +0000</pubDate>
+      <guid>/en/docs/publications_qml/</guid>
+      <description>Wan J, Xu C*, Shi Y, Chen W, Ye F, Wang R, Zhang X. Multi-target Cooperative Motion Tracking Based on Quantum Belief Propagation[J]. IEEE Internet of Things Journal, 2025. Online Early Access
+Chen W, Wan J, Ye F, Wang R, Xu C*. QMARL: A Quantum Multi-Agent Reinforcement Learning Framework for Swarm Robots Navigation[C]. 2nd Workshop on Signal Processing for Autonomous Systems in 2024 lEEE International Conference on Acoustics, Speech and Signal Procesing (IEEE ICASSP 2024), Seoul, Korea, 14-19 April 2024.</description>
+    </item>
+    <item>
+      <title>Publications on Distributed Scurity</title>
+      <link>/en/docs/publications_ds/</link>
+      <pubDate>Wed, 01 Nov 2023 14:00:00 +0000</pubDate>
+      <guid>/en/docs/publications_ds/</guid>
+      <description>Wang R, Xu C*, Shuhao Zhang, Fangwen Ye, Yusen Tang, Sisui Tang, Hangning Zhang, Wendi Du, Zhang X*. MatSwarm: Trusted Swarm Transfer Learning Driven Materials Computation for Secure Big Data Sharing[J]. Nature Communications, 2024, 15(9290): 1-14. PDF
+Wang R, Xu C*, Zhang X*. Toward Materials Genome Big-Data: A Blockchain-based Secure Storage and Efficient Retrieval Method[J]. IEEE Transactions on Parallel and Distributed Systems, 2024, 35(9): 1630–1643. PDF
+Wang R, Xu C*, Ye F, Tang S, Zhang X*.</description>
+    </item>
+  </channel>
+</rss>

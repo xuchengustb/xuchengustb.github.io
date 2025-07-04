@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cheng Xu&#39;s Website ! on Cheng XU（徐 诚）</title>
+    <link>/zh/docs/</link>
+    <description>Recent content in Cheng Xu&#39;s Website ! on Cheng XU（徐 诚）</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Thu, 19 Sep 2024 14:00:00 +0000</lastBuildDate>
+    <atom:link href="/zh/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>首页</title>
+      <link>/zh/docs/home/</link>
+      <pubDate>Thu, 19 Sep 2024 14:00:00 +0000</pubDate>
+      <guid>/zh/docs/home/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;我目前就职于 &lt;a href=&#34;https://www.ustb.edu.cn/&#34;&gt;北京科技大学&lt;/a&gt; &lt;a href=&#34;http://scce.ustb.edu.cn/&#34;&gt;计算机与通信工程学院&lt;/a&gt; 的微架构与集成电路实验室（MICL）。&lt;/p&gt;
+&lt;p&gt;我带领 &lt;em&gt;&lt;strong&gt;群体智能与协同计算&lt;/strong&gt;&lt;/em&gt;（SICC）研究组，研究方向聚焦于群体学习，致力于分布式系统中的协同决策、鲁棒性增强以及安全学习。我们的研究涵盖两个主要领域：&lt;em&gt;&lt;strong&gt;机器人技术&lt;/strong&gt;&lt;/em&gt; 与 &lt;em&gt;&lt;strong&gt;材料大数据&lt;/strong&gt;&lt;/em&gt;。&lt;/p&gt;
+&lt;p&gt;在 &lt;a href=&#34;/zh/docs/publications_sr/&#34;&gt;群体机器人&lt;/a&gt; 方向，我们研究多智能体系统如何在不确定环境中自主协作地完成复杂任务，应用无线定位、强化学习与量子机器学习等技术；而在 &lt;a href=&#34;/zh/docs/publications_ds/&#34;&gt;材料科学&lt;/a&gt; 方向，我们探索大规模材料数据的协同计算与安全处理方法。&lt;/p&gt;
+&lt;p&gt;这两个领域的共通点在于它们都基于 &lt;strong&gt;多智能体系统&lt;/strong&gt; 理论基础，这使我们可以将统一的理论方法应用于多样化的实践场景。我们的部分研究还致力于提升基于群体的决策系统与分布式学习系统的鲁棒性与安全性。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;关键词&lt;/strong&gt;&lt;/em&gt;：群体机器人、多智能体系统、强化学习、定位与导航、量子机器学习、区块链、联邦学习、分布式安全、材料大数据、AI4Science&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>科研方向</title>
+      <link>/zh/docs/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/zh/docs/research/</guid>
+      <description>&lt;p&gt;本页部分内容仍在完善中！我正在努力补充中：)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>发表论文</title>
+      <link>/zh/docs/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/zh/docs/publications/</guid>
+      <description>&lt;p&gt;这是我作为 &lt;em&gt;第一作者/通讯作者&lt;/em&gt; 发表的论文的 &lt;strong&gt;按年份排序&lt;/strong&gt; 的完整列表。&lt;/p&gt;
+&lt;p&gt;我的研究主要聚焦于以下主题：&lt;a href=&#34;/zh/docs/publications_sr/&#34;&gt;群体机器人&lt;/a&gt;、&lt;a href=&#34;/zh/docs/publications_ds/&#34;&gt;分布式安全&lt;/a&gt; 和 &lt;a href=&#34;/zh/docs/publications_qml/&#34;&gt;量子机器学习&lt;/a&gt;。精选文章也可参考 &lt;a href=&#34;/zh/docs/research/&#34; title=&#34;interests&#34;&gt;科研方向&lt;/a&gt; 页面。点击以上链接可查看按研究主题分类的成果列表。&lt;/p&gt;
+&lt;p&gt;你可以点击每篇论文的标题，以查看其简要介绍或相关的补充材料。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>科研项目</title>
+      <link>/zh/docs/project/</link>
+      <pubDate>Fri, 03 Nov 2023 14:00:00 +0000</pubDate>
+      <guid>/zh/docs/project/</guid>
+      <description>This page is still under construction !
+MatSwarm 工业4.0的快速发展对材料科研机构间的无缝协作提出了更高要求，以加速先进材料的发现。然而，现有平台在整合大规模异构数据集方面仍面临挑战，导致“数据孤岛”问题，制约了协同创新的推进。北京科技大学通过国家材料数据管理与服务平台（NMDMS）积极应对这一难题。该平台已整合来自30余家单位的超过1400万条材料数据，支持材料基因工程中的高通量实验与协同研究。
+NMDMS平台的成功依赖于其先进的数据规范化机制、分布式存储体系以及基于区块链的中间件设计，确保了跨机构数据共享的安全性与可信度。在此基础上，MatSwarm框架进一步引入群体迁移学习方法，有效提升了在非独立同分布（non-i.i.d.）数据下的模型精度与泛化能力。NMDMS作为材料科学领域的先导性平台，正引领创新，推动构建安全、高效、协同的材料计算新范式。</description>
+    </item>
+    <item>
+      <title>招生信息</title>
+      <link>/zh/docs/openings/</link>
+      <pubDate>Fri, 03 Nov 2023 14:00:00 +0000</pubDate>
+      <guid>/zh/docs/openings/</guid>
+      <description>&lt;p&gt;担任学生的导师是我工作中最有意义的部分之一。请浏览我的&lt;a href=&#34;/zh/docs/research/&#34; title=&#34;interests&#34;&gt;研究方向&lt;/a&gt;和&lt;a href=&#34;/zh/docs/publications/&#34; title=&#34;publications&#34;&gt;近期发表成果&lt;/a&gt;，如果有任何方向吸引你，欢迎将你的简历和一段介绍你背景的文字发给我。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>关于</title>
+      <link>/zh/docs/about/</link>
+      <pubDate>Wed, 25 Oct 2023 14:00:00 +0000</pubDate>
+      <guid>/zh/docs/about/</guid>
+      <description>我目前就职于北京科技大学计算机与通信工程学院的微架构与集成电路实验室（MICL）。
+我带领 群体智能与协同计算（SICC）课题组，研究方向主要聚焦于群体学习，涵盖分布式系统中的协同决策、系统鲁棒性以及安全学习。我们的研究工作主要涉及两个方向：机器人技术 和 材料大数据。
+在群体机器人方向，我们研究多智能体系统在不确定环境中如何自主协作完成复杂任务，技术涉及无线定位、强化学习及量子机器学习等；而在材料科学方向，我们探索大规模材料数据的协同计算与安全处理方法。
+这两个研究方向的共同基础是 多智能体系统，这使我们能够在多个实际应用中采用统一的理论方法开展研究。我们的一部分工作旨在提升基于群体的决策系统与分布式学习系统的鲁棒性与安全性。
+关键词：群体机器人、多智能体系统、强化学习、定位与导航、量子机器学习、区块链、联邦学习、分布式安全、材料大数据、AI4Science
+关于招生 我可以招收硕士研究生，并与实验室其他老师联合指导博士研究生。详情请参考招生信息。
+关于合作 我对各种科研合作持开放态度，尤其欢迎跨学科交叉研究。如果您对合作感兴趣，欢迎通过邮件联系我，或预约时间面谈交流合作可能性。联系方式如下：
+邮箱：xucheng AT ustb.edu.cn 办公室：北京科技大学 机电信息楼 1201 室 地址：北京市海淀区学院路30号 </description>
+    </item>
+    <item>
+      <title>Publications on Swarm Robotics</title>
+      <link>/zh/docs/publications_sr/</link>
+      <pubDate>Wed, 01 Nov 2023 14:00:00 +0000</pubDate>
+      <guid>/zh/docs/publications_sr/</guid>
+      <description>Wan J, Xu C*, Shi Y, Chen W, Ye F, Wang R, Zhang X. Multi-target Cooperative Motion Tracking Based on Quantum Belief Propagation[J]. IEEE Internet of Things Journal, 2025. Online Early Access
+Wang R, Xu C*, Sun J, Duan S, Zhang X. Cooperative Localization for Multi-agents based on Reinforcement Learning Compensated Filter[J]. IEEE Journal on Selected Areas in Communications, 2024, 42(10): 2820–2831. PDF
+Wang R, Jing Sun Xu C*, Li R, Duan S, Zhang X.</description>
+    </item>
+    <item>
+      <title>Publications on Quantum ML</title>
+      <link>/zh/docs/publications_qml/</link>
+      <pubDate>Wed, 01 Nov 2023 14:00:00 +0000</pubDate>
+      <guid>/zh/docs/publications_qml/</guid>
+      <description>Wan J, Xu C*, Shi Y, Chen W, Ye F, Wang R, Zhang X. Multi-target Cooperative Motion Tracking Based on Quantum Belief Propagation[J]. IEEE Internet of Things Journal, 2025. Online Early Access
+Chen W, Wan J, Ye F, Wang R, Xu C*. QMARL: A Quantum Multi-Agent Reinforcement Learning Framework for Swarm Robots Navigation[C]. 2nd Workshop on Signal Processing for Autonomous Systems in 2024 lEEE International Conference on Acoustics, Speech and Signal Procesing (IEEE ICASSP 2024), Seoul, Korea, 14-19 April 2024.</description>
+    </item>
+    <item>
+      <title>Publications on Distributed Scurity</title>
+      <link>/zh/docs/publications_ds/</link>
+      <pubDate>Wed, 01 Nov 2023 14:00:00 +0000</pubDate>
+      <guid>/zh/docs/publications_ds/</guid>
+      <description>Wang R, Xu C*, Shuhao Zhang, Fangwen Ye, Yusen Tang, Sisui Tang, Hangning Zhang, Wendi Du, Zhang X*. MatSwarm: Trusted Swarm Transfer Learning Driven Materials Computation for Secure Big Data Sharing[J]. Nature Communications, 2024, 15(9290): 1-14. PDF
+Wang R, Xu C*, Zhang X*. Toward Materials Genome Big-Data: A Blockchain-based Secure Storage and Efficient Retrieval Method[J]. IEEE Transactions on Parallel and Distributed Systems, 2024, 35(9): 1630–1643. PDF
+Wang R, Xu C*, Ye F, Tang S, Zhang X*.</description>
+    </item>
+  </channel>
+</rss>

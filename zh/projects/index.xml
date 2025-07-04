@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Cheng XU（徐 诚）</title>
+    <link>/zh/projects/</link>
+    <description>Recent content in Projects on Cheng XU（徐 诚）</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <atom:link href="/zh/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>/zh/projects/fedmdh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/zh/projects/fedmdh/</guid>
+      <description>FedMDH: A Federated Learning Framework for Effective Sharing of Multi-Dimensional Heterogeneous Materials Data In the field of materials science, due to various factors such as material sources, testing equipment, and technical methods, the data distributions across different organizations are often non-identical and non-independent (non-i.i.d.) . This data heterogeneity can manifest in various forms, including 1) feature space disparity, 2) sample imbalance, and 3) label distribution variance. We define it as multi-dimensional heterogeneity (MDH).</description>
+    </item>
+    <item>
+      <title></title>
+      <link>/zh/projects/matswarm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/zh/projects/matswarm/</guid>
+      <description>MatSwarm: Trusted Swarm Transfer Learning in NMDMS The rapid progression of Industry 4.0 has created a critical need for efficient collaboration among material research institutions to accelerate the discovery of advanced materials. However, existing platforms face challenges in effectively aggregating, normalizing, and utilizing large-scale heterogeneous data, leading to data silos and limited collaboration. Many current solutions fall short in supporting true cross-institutional data sharing and utilization, restricting the potential of material data for innovative research.</description>
+    </item>
+  </channel>
+</rss>

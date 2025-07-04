@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>info on Cheng XU（徐 诚）</title>
+    <link>/en/tags/info/</link>
+    <description>Recent content in info on Cheng XU（徐 诚）</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 19 Sep 2024 14:00:00 +0000</lastBuildDate>
+    <atom:link href="/en/tags/info/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Home</title>
+      <link>/en/docs/home/</link>
+      <pubDate>Thu, 19 Sep 2024 14:00:00 +0000</pubDate>
+      <guid>/en/docs/home/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;I am currently with the Microarchitecture and Integrated Circuit Laboratory (MICL), in &lt;a href=&#34;http://scce.ustb.edu.cn/&#34;&gt;School of Computer and Communication Engineering&lt;/a&gt;, &lt;a href=&#34;https://www.ustb.edu.cn/&#34;&gt;University of Science and Technology Beijing (USTB)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I am leading the &lt;em&gt;&lt;strong&gt;Swarm Intelligence and Collabrative Computing&lt;/strong&gt;&lt;/em&gt; (SICC) Group, where our research centers on swarm learning, focusing on collaborative decision-making, robustness, and secure learning within distributed systems. Our work spans two primary domains: &lt;em&gt;&lt;strong&gt;robotics&lt;/strong&gt;&lt;/em&gt; and &lt;em&gt;&lt;strong&gt;materials big-data&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;In &lt;a href=&#34;/en/docs/publications_sr/&#34;&gt;swarm robotics&lt;/a&gt;, we investigate how multi-agent systems can autonomously and cooperatively perform complex tasks in uncertain environments, leveraging wireless localization, reinforcement learning, and quantum machine learning. Meanwhile, in &lt;a href=&#34;/en/docs/publications_ds/&#34;&gt;materials science&lt;/a&gt;, we explore collaborative computation and secure data handling for large-scale materials datasets.&lt;/p&gt;
+&lt;p&gt;The common thread between these domains is their foundation in &lt;strong&gt;multi-agent systems&lt;/strong&gt;, which allows us to apply unified theoretical approaches across diverse applications. Part of our research aims to enhance robustness and security in swarm-based decision-making and distributed learning systems.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Keywords&lt;/strong&gt;&lt;/em&gt;: Swarm Robotics, Multi-Agent System, Reinforcement Learning, Localization and Navigation, Quantum Machine Learning, Blockchain, Federated Learning, Distributed Security, Materials Big-data, and AI4Science.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
