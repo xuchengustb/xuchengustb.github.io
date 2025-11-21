@@ -32,7 +32,7 @@
       <link>/en/docs/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/en/docs/publications/</guid>
-      <description>&lt;p&gt;This is a FULL list of my &lt;em&gt;first/correspoding-author publications&lt;/em&gt; sorted by &lt;strong&gt;year&lt;/strong&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;This is a FULL list of my &lt;strong&gt;first/correspoding-authored&lt;/strong&gt; publications sorted by &lt;strong&gt;year&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;My research mainly focuses on the topics of &lt;a href=&#34;/en/docs/publications_sr/&#34;&gt;Swarm Robotics&lt;/a&gt;, &lt;a href=&#34;/en/docs/publications_ds/&#34;&gt;Distributed Security&lt;/a&gt;, and &lt;a href=&#34;/en/docs/publications_qml/&#34;&gt;Quantum Machine Learning&lt;/a&gt;. Featured articles could also be referred to the &lt;a href=&#34;/en/docs/research/&#34; title=&#34;interests&#34;&gt;Research&lt;/a&gt;. Simply click on the above links to see the lists organized by topics.&lt;/p&gt;
 &lt;p&gt;You may click on the paper title to see a brief introduction or supplementary materials about each article.&lt;/p&gt;</description>
     </item>
@@ -65,16 +65,22 @@ In swarm robotics, we investigate how multi-agent systems can autonomously and c
       <link>/en/docs/publications_sr/</link>
       <pubDate>Wed, 01 Nov 2023 14:00:00 +0000</pubDate>
       <guid>/en/docs/publications_sr/</guid>
-      <description>Wan J, Xu C*, Shi Y, Chen W, Ye F, Wang R, Zhang X. Multi-target Cooperative Motion Tracking Based on Quantum Belief Propagation[J]. IEEE Internet of Things Journal, 2025. Online Early Access
-Wang R, Xu C*, Sun J, Duan S, Zhang X. Cooperative Localization for Multi-agents based on Reinforcement Learning Compensated Filter[J]. IEEE Journal on Selected Areas in Communications, 2024, 42(10): 2820–2831. PDF
-Wang R, Jing Sun Xu C*, Li R, Duan S, Zhang X.</description>
+<<<<<<< HEAD
+      <description>Shi Y, Duan S, Xu C*, Wang R, Ye F, Yuen C. Dynamic Deep Factor Graph for Multi-Agent Reinforcement Learning. IEEE Transactions on Pattern Analysis and Machine Intelligence. PDF
+Wang R, Sisui Tang, Hangning Zhang, Duan S, Zhang X, Xu C*. Blockchain Empowered Secure Collaboration for Swarm Robots: Storage and Computation[J]. IEEE Internet of Things Journal. PDF
+Wang R, Ma F*, Tang S, Su Z, Xu C*. Parallel Byzantine Fault Tolerance Consensus for Blockchain Secured Swarm Robots [J].</description>
+=======
+      <description>Wang R, Sisui Tang, Hangning Zhang, Duan S, Zhang X, Xu C*. Blockchain Empowered Secure Collaboration for Swarm Robots: Storage and Computation[J]. IEEE Internet of Things Journal. PDF
+Wang R, Ma F*, Tang S, Su Z, Xu C*. Parallel Byzantine Fault Tolerance Consensus for Blockchain Secured Swarm Robots [J]. Journal of Field Robotics, 2025. PDF
+Wan J, Xu C*, Shi Y, Chen W, Ye F, Wang R, Zhang X. Multi-target Cooperative Motion Tracking Based on Quantum Belief Propagation[J].</description>
+>>>>>>> 2d8ea99fd249e4eff8db0c52074074675a592a68
     </item>
     <item>
       <title>Publications on Quantum ML</title>
       <link>/en/docs/publications_qml/</link>
       <pubDate>Wed, 01 Nov 2023 14:00:00 +0000</pubDate>
       <guid>/en/docs/publications_qml/</guid>
-      <description>Wan J, Xu C*, Shi Y, Chen W, Ye F, Wang R, Zhang X. Multi-target Cooperative Motion Tracking Based on Quantum Belief Propagation[J]. IEEE Internet of Things Journal, 2025. Online Early Access
+      <description>Wan J, Xu C*, Shi Y, Chen W, Ye F, Wang R, Zhang X. Multi-target Cooperative Motion Tracking Based on Quantum Belief Propagation[J]. IEEE Internet of Things Journal, 2025, 12(10): 14845-14855. PDF
 Chen W, Wan J, Ye F, Wang R, Xu C*. QMARL: A Quantum Multi-Agent Reinforcement Learning Framework for Swarm Robots Navigation[C]. 2nd Workshop on Signal Processing for Autonomous Systems in 2024 lEEE International Conference on Acoustics, Speech and Signal Procesing (IEEE ICASSP 2024), Seoul, Korea, 14-19 April 2024.</description>
     </item>
     <item>
@@ -82,9 +88,9 @@ Chen W, Wan J, Ye F, Wang R, Xu C*. QMARL: A Quantum Multi-Agent Reinforcement L
       <link>/en/docs/publications_ds/</link>
       <pubDate>Wed, 01 Nov 2023 14:00:00 +0000</pubDate>
       <guid>/en/docs/publications_ds/</guid>
-      <description>Wang R, Xu C*, Shuhao Zhang, Fangwen Ye, Yusen Tang, Sisui Tang, Hangning Zhang, Wendi Du, Zhang X*. MatSwarm: Trusted Swarm Transfer Learning Driven Materials Computation for Secure Big Data Sharing[J]. Nature Communications, 2024, 15(9290): 1-14. PDF
-Wang R, Xu C*, Zhang X*. Toward Materials Genome Big-Data: A Blockchain-based Secure Storage and Efficient Retrieval Method[J]. IEEE Transactions on Parallel and Distributed Systems, 2024, 35(9): 1630–1643. PDF
-Wang R, Xu C*, Ye F, Tang S, Zhang X*.</description>
+      <description>Wang R, Fangwen Ye, Sisui Tang, Hangning Zhang, Jie He, Zhang X, Xu C*. Blockchain Technology for Big-data Sharing in Material Genome Engineering[J]. Scientific Data. Accepted
+Wang R, Xu C*, Shuhao Zhang, Fangwen Ye, Yusen Tang, Sisui Tang, Hangning Zhang, Wendi Du, Zhang X*. MatSwarm: Trusted Swarm Transfer Learning Driven Materials Computation for Secure Big Data Sharing[J]. Nature Communications, 2024, 15(9290): 1-14. PDF
+Wang R, Xu C*, Zhang X*. Toward Materials Genome Big-Data: A Blockchain-based Secure Storage and Efficient Retrieval Method[J].</description>
     </item>
   </channel>
 </rss>
