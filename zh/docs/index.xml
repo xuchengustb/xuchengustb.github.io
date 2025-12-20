@@ -71,9 +71,9 @@ NMDMS平台的成功依赖于其先进的数据规范化机制、分布式存储
       <link>/zh/docs/publications_sr/</link>
       <pubDate>Wed, 01 Nov 2023 14:00:00 +0000</pubDate>
       <guid>/zh/docs/publications_sr/</guid>
-      <description>Shi Y, Duan S, Xu C*, Wang R, Ye F, Yuen C. Dynamic Deep Factor Graph for Multi-Agent Reinforcement Learning. IEEE Transactions on Pattern Analysis and Machine Intelligence. PDF
-Wang R, Sisui Tang, Hangning Zhang, Duan S, Zhang X, Xu C*. Blockchain Empowered Secure Collaboration for Swarm Robots: Storage and Computation[J]. IEEE Internet of Things Journal. PDF
-Wang R, Ma F*, Tang S, Su Z, Xu C*. Parallel Byzantine Fault Tolerance Consensus for Blockchain Secured Swarm Robots [J].</description>
+      <description>Xu C, Zhang C, Shi Y, Wang R, Duan S*, Wan Y*, Zhang X. Subgoal-based Hierarchical Reinforcement Learning for Multi-Agent Collaboration[J]. IEEE Transactions on Systems, Man and Cybernetics: Systems. Accepted
+Shi Y, Duan S, Xu C*, Wang R, Ye F, Yuen C. Dynamic Deep Factor Graph for Multi-Agent Reinforcement Learning. IEEE Transactions on Pattern Analysis and Machine Intelligence. PDF
+Wang R, Sisui Tang, Hangning Zhang, Duan S, Zhang X, Xu C*.</description>
     </item>
     <item>
       <title>Publications on Quantum ML</title>
